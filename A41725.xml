@@ -1,0 +1,2544 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse deliver'd in two sermons preached in the cathedral at Ely, in September 1684, not long after the death of the Right Reverend Father in God Peter Gunning, late Lord Bishop of Ely / by Humfrey Govver ...</title>
+            <author>Gower, Humphrey, 1638-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 128 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41725</idno>
+            <idno type="STC">Wing G1458</idno>
+            <idno type="STC">ESTC R18728</idno>
+            <idno type="EEBO-CITATION">12662086</idno>
+            <idno type="OCLC">ocm 12662086</idno>
+            <idno type="VID">65451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41725)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 355:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse deliver'd in two sermons preached in the cathedral at Ely, in September 1684, not long after the death of the Right Reverend Father in God Peter Gunning, late Lord Bishop of Ely / by Humfrey Govver ...</title>
+                  <author>Gower, Humphrey, 1638-1711.</author>
+               </titleStmt>
+               <extent>[7], 66 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Hayes ... for John Creed ...,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gunning, Peter, 1614-1684.</term>
+               <term>Church of England --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65451:1"/>
+            <p>A
+DISCOURSE
+Deliver'd in
+Two Sermons,
+PREACHED in the
+Cathedral at ELY,
+in <hi>September</hi> 1684.</p>
+            <p>Not long after the Death of the
+RIGHT REVEREND FATHER in <hi>GOD</hi>
+PETER GUNNING
+Late <hi>Lord Biſhop of</hi> ELY.</p>
+            <p>By HUMFREY GOVVER D. D. Maſter of <hi>S<hi rend="sup">t</hi> John's
+College</hi> in <hi>Cambridge</hi> and one of the Prebendaries of <hi>ELY.</hi>
+            </p>
+            <p>
+               <hi>CAMBRIDGE,</hi>
+Printed by <hi>John Hayes,</hi> Printer to the Univerſity. For <hi>John Creed,</hi>
+Bookſeller there. 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65451:2"/>
+            <pb facs="tcp:65451:2" rendition="simple:additions"/>
+            <head>To the Right Reverend Father in God
+FRANCIS Lord Biſhop of ELY
+and Almoner to His MAJESTY.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is now near five moneths ſince
+this Diſcourſe was deliver'd in Two
+Sermons in your Lordſhips <hi>Ca<g ref="char:EOLhyphen"/>thedral</hi>
+Church at <hi>ELY.</hi> So
+long have I been able to keep it confin'd to
+that privacy, for which it was intended,
+notwithſtanding many endeavours that were
+uſed to make it Publick. I had no reaſon
+to be eaſily perſwaded to offer to the world
+any thing ſo mean on ſo Great a Subject.
+That, which might ſerve well enough from the
+<hi>Pulpit</hi> to expreſs my own Duty and Reve<g ref="char:EOLhyphen"/>rence
+to the Bleſſed Memory of this Holy
+Prelate, and could raiſe ſuitable Affections in
+that one Auditory for which theſe Sermons were
+<pb facs="tcp:65451:3"/>
+compos'd, will not, perhaps, deſerve Pardon
+coming from the <hi>Preſs</hi> and preſented to the
+Publick view. It may be expected from a
+Diſcourſe of this nature, that carries in its
+Title Page the Great Name of <hi>Biſhop
+GUNNING,</hi> that it ſhould bear ſome pro<g ref="char:EOLhyphen"/>portion
+to the Excellent Subject, adorn the
+Great and Good Mans memory and render
+Him Lovely and Admirable in the Lively
+expreſſion of His <hi>Character,</hi> as He really
+was in the Perfections of His <hi>Soul</hi> and the
+whole Tenour of His <hi>Life.</hi> But that's an
+undertaking far above My reach and beyond
+the Power of any words that I know. If ſo
+Happy a Performance may be reaſonably expected
+from any Pen, My Lord, it muſt be Yours; You
+beſt underſtand and can beſt Expreſs what an in<g ref="char:EOLhyphen"/>eſtimable
+Treaſure the World lately Enjoyed, and
+now Laments as loſt, in Your Renowned Predeceſ<g ref="char:EOLhyphen"/>ſour.
+But, if the Important Affairs that take
+up your time and the many Duties of that High
+Station, in which God and the King have ſo hap<g ref="char:EOLhyphen"/>pily
+plac'd You, will not allow Your Lordſhip
+leiſure to oblige our Age and Poſterity in this par<g ref="char:EOLhyphen"/>ticular,
+<pb facs="tcp:65451:3"/>
+I hope ſome other will be found ready,
+and, in ſome good Degree, qualified for ſuch an
+undertaking.</p>
+            <p>In the mean time I have ſuffer'd my ſelf to be
+overrul'd by my Friends, but eſpecially Your
+Lordſhip, whoſe Commands I do not uſe to diſ<g ref="char:EOLhyphen"/>pute;
+but ſtill delight to Obſerve and Obey the
+leaſt intimations of Your Pleaſure, as well now
+that You are <hi>Biſhop</hi> of the <hi>Dioceſs</hi> as when
+You were <hi>Maſter</hi> of the <hi>College.</hi> But no<g ref="char:EOLhyphen"/>thing
+made Me yeild more patiently to the pub<g ref="char:EOLhyphen"/>liſhing
+of this imperfect Account of my late
+Deareſt and moſt Honour'd Lord, then ſome
+comfortable Hopes, which aroſe within Me,
+that it might be a means to provoke and haſten
+ſome other to draw up a juſt and compleat Hi<g ref="char:EOLhyphen"/>ſtory
+of His Lordſhips Life. For theſe papers
+are ſuch, as they cannot foreſtall, but may well
+Incourage and quicken a performance ſo deſire<g ref="char:EOLhyphen"/>able
+in its ſelf, ſo due to the <hi>Biſhop's</hi> memory,
+and ſo profitable for the Publick.</p>
+            <p>That I have inſcrib'd them to Your Lordſhips
+Name, I hope, My Lord, You can eaſily par<g ref="char:EOLhyphen"/>don,
+becauſe You could not expect that it ſhould
+<pb facs="tcp:65451:4"/>
+be otherwiſe: Nothing of this kind can be
+ſo properly offer'd to any other as to Your ſelf:
+You were that Great Prelat's moſt intimate and
+many ways indeared Friend; You are his moſt
+Worthy and wiſh'd for Succeſſour; You tread
+in his ſteps and moſt happily Imitate his Vir<g ref="char:EOLhyphen"/>tues:
+In all things You appear a Prelate after
+his own heart, the very Perſon, whom (had
+it been in His power) the Holy Man would
+have named, to that Honour, before any other
+in the World.</p>
+            <p>That Your Lordſhip may live long for the
+further Service and Benefit of the Church, and
+to the manifold increaſe of Honour and Happineſs
+to Your Self both in this and a better World, is
+the daily Hearty Prayer of, My Lord,</p>
+            <closer>
+               <signed>Your Lordſhips moſt obliged<lb/>
+and Dutifull Servant<lb/>
+HUMF. GOWER.</signed>
+               <dateline>S<hi rend="sup">t</hi> 
+                  <hi>John's College</hi>
+in <hi>Cambridge</hi>
+                  <date>Febr. 12. 1684/5</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:65451:4"/>
+            <epigraph>
+               <q>
+                  <bibl>II. KINGS 2. 11, 12.</bibl>
+                  <p>And it came to paſs as they ſtill went on and talked, that
+behold, there appeared a Chariot of fire, and horſes of
+fire, and parted them both aſunder, and Elijah went up
+by a whirlwind into heaven.</p>
+                  <p>And Eliſha ſaw it, and he cried, My father, my father, the
+chariot of Iſrael, and the horſemen thereof: and he ſaw
+him no more, and he took hold of his own clothes, and
+rent them in two pieces.</p>
+               </q>
+            </epigraph>
+            <p>THis Church hath ſo lately loſt a Prophet,
+and a Father, I mean a moſt Venerable
+and holy Biſhop, and theſe words do ſo
+expreſly commemorate ſuch a loſs; that I can eaſi<g ref="char:EOLhyphen"/>ly
+believe you to be already in ſome apprehenſion
+of a diſcourſe on that ſad ſubject. And indeed,
+prepare to renew your mourning. If you have bin
+yet able to make any truce with your ſorrows for
+ſo ineſtimable a loſs, you are like now to have
+occaſion to break it off, and to return a while to
+funeral and melancholy meditations. I fear I can<g ref="char:EOLhyphen"/>not
+touch, tho' never ſo gently, that tender part
+without being troubleſome and grievous unto you;
+and ſomewhat unſeaſonable too, now that your
+breach is ſo happily repair'd, and good amends
+made you for what you have lately ſuffer'd: And
+yet I muſt venture it. I can forbear no longer,
+<pb n="2" facs="tcp:65451:5"/>
+               <hi>I have held my tongue hitherto and kept ſilence, even from
+good words, but it was pain and grief to me.</hi> A great
+man is faln amongſt us; and ſhall none of us cry
+out, and lift up his voice in weeping and mourn<g ref="char:EOLhyphen"/>ing,
+and go before the people, and lead them on,
+and teach them how to be affected, how to expreſs
+their ſorrows at the Grave of ſo Honourable and
+Renowned a Perſon? It may be ſome ſatisfaction
+to me, and not unprofitable to you, to ſpend this
+hour (my <hi>firſt</hi> before you in this place, ſince that
+mournfull day) in conſidering and diſcourſing of
+that great common calamity, which then be<g ref="char:EOLhyphen"/>fell
+us.</p>
+            <p>What tho' it coſt us <hi>ſome</hi> freſh tears? Our <hi>whole</hi>
+ſtock is not ſufficient worthily to expreſs all the de<g ref="char:EOLhyphen"/>grees
+and particulars of our loſs: It can never be
+better ſpent: You ſcarce ever had, ever can have
+juſter and greater matter for repeated and even
+perpetual lamentation; <hi>You,</hi> I ſay, of this Church,
+of this City and Dioceſs. For God has lately ta<g ref="char:EOLhyphen"/>ken
+from you your Biſhop, a Prophet, a Paſtour
+of his own ſending, and after his own heart;
+<hi>a ſpiritual Father, a vigilant Guide and Guardian of your
+ſouls: You have loſt an excellent Governour, a watchfull
+Overſeer, a faithfull Inſtructour, an able Pilot, an affectio<g ref="char:EOLhyphen"/>nate
+Friend, a charitable Neighbour, an hoſpitable Enter<g ref="char:EOLhyphen"/>tainer,
+and a bountifull Benefactour.</hi>
+            </p>
+            <p>Thus much, at the leaſt is <hi>yours:</hi> this is <hi>your</hi>
+ſhare in the publick Calamity that we now de<g ref="char:EOLhyphen"/>plore:
+publick, I ſay; for ſo it is, if ever the
+death of a ſingle man and a ſubject can be
+ſuch. It is not a private and domeſtick ſorrow,
+<pb n="3" facs="tcp:65451:5"/>
+not the mourning of one place or people, that I
+now invite you to: there is not a good man alive,
+that knew this Biſhop, but laments his death. Were
+the greatneſs of the loſs as generally known and as
+well underſtood, as it is certain and ſad, there
+would be as many mourners for this death, as there
+are Chriſtians in the world, and a lamentation
+as <hi>Univerſal</hi> as the <hi>Catholick</hi> Church. Therefore,
+when we diſcourſe of this late <hi>Great</hi> man, when in
+Him we lament our loſs, it will become us to en<g ref="char:EOLhyphen"/>tertain
+reſentments, and frame expreſſions, as near
+as we can, ſuitable to <hi>his</hi> worth, and <hi>our</hi> ſenſe of
+it. There can be no danger of being too exceſſive
+in our weeping and mourning; whilſt our Grief is
+Chriſtian, and that we <hi>ſorrow not</hi> as men without
+<hi>hope:</hi> nor can the expreſſions of it be extravagant,
+whilſt they endeavour to ſignifie no more then a
+loſs as great as could well happen by the death of
+<hi>one</hi> man.</p>
+            <p>It is one of the leaſt conſiderations that we can
+have of him, that he was <hi>ours:</hi> If we will lament
+becomingly at this Tomb, our cry muſt be double,
+like that of <hi>Eliſha</hi> in my Text, it muſt mount apace,
+riſe ſtill higher, and expreſs more and more abun<g ref="char:EOLhyphen"/>dantly
+in every note; <hi>My father, my father, the cha<g ref="char:EOLhyphen"/>riot
+of Iſrael and the horſemen thereof. Eliſha,</hi> you hear,
+claims the intereſt of a <hi>ſon</hi> in the departing Pro<g ref="char:EOLhyphen"/>phet:
+And I have reaſon to think that thoſe of
+this Church and Dioceſs had as good cauſe to love
+and Reverence their late Biſhop as a <hi>Father,</hi> as a<g ref="char:EOLhyphen"/>ny
+Congregation ever had ſo to eſteem their Pa<g ref="char:EOLhyphen"/>ſtour;
+ſince any leſs then Apoſtles have bin em<g ref="char:EOLhyphen"/>ployed
+to feed and govern the Chriſtian Flock:
+<pb n="4" facs="tcp:65451:6"/>
+But <hi>Eliſha</hi> ſoon paſſes from ſo private and particu<g ref="char:EOLhyphen"/>lar
+a conſideration to the much more conſiderable
+intereſt, which the publick had in that wondrous
+man. <hi>The chariot of Iſrael and the horſemen thereof.</hi>
+            </p>
+            <p>And that is it, which, in the caſe before us, is
+moſt to be regarded. We have loſt a Father, 'tis
+true, and ſuch a one as your own memories and
+happy experience can better repreſent unto you then
+the beſt of words, or the moſt affectionate and ad<g ref="char:EOLhyphen"/>vantagious
+report, that can be made. But even
+that, which ſeems ſo much <hi>yours,</hi> muſt likewiſe be
+accounted to the <hi>Church:</hi> He could not have been
+ſuch a beneficial <hi>Father</hi> to you, had he not been as
+uſefull and as excellent a <hi>Son</hi> to the Holy Church:
+All that we can ſay or think to imbitter our own
+particular ſhare in this loſs does but inhance and
+aggravate that much more deplorable of the pub<g ref="char:EOLhyphen"/>lick.
+For in your late holy Prelate the whole Ca<g ref="char:EOLhyphen"/>tholick
+Church of God on Earth, but in an eſpecial
+manner, this bleſſed part of it, the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi>
+did enjoy whatever almoſt could be Good
+and Great in a Chriſtian and a Scholar. He liv'd
+and dy'd the great Inſtance and Example of his age
+of extraordinary natural Endowments moſt won<g ref="char:EOLhyphen"/>derfully
+improv'd, vaſt Learning grac'd with the
+greateſt Modeſty, incomparable worth and pro<g ref="char:EOLhyphen"/>found
+Humility. In him hath the Church loſt one
+of the moſt perfect patterns of a Chriſtian Biſhop
+that She ever had: Furniſh'd he was with all the
+Gifts and Graces, that are requiſite to make a man
+moſt amiable and uſefull. His unfeigned and ex<g ref="char:EOLhyphen"/>emplary
+piety, devout and holy Life, his ſearch<g ref="char:EOLhyphen"/>ing
+and comprehenſive underſtanding, lively and
+<pb n="5" facs="tcp:65451:6"/>
+quick apprehenſion, ready and retentive memory,
+His ſolid judgement, unwearied induſtry, and, an
+effect of theſe, His accurate and almoſt Univerſal
+Knowledge, eſpecially in that which is the end and
+perfection of all, the Doctrine of the Holy Scri<g ref="char:EOLhyphen"/>ptures
+and the whole ſacred Text, as they render'd
+him the wonder and delight of all that knew him,
+whilſt he was here; ſo (it is to be hoped) thoſe
+Great Accompliſhments have ſhed abroad ſuch
+happy influences in this Kingdom as will not pe<g ref="char:EOLhyphen"/>riſh
+with the preſent age, but ſpread and propa<g ref="char:EOLhyphen"/>gate
+to ſucceeding times, and both to us and our
+lateſt poſterity bring forth fruit for the uſe and bene<g ref="char:EOLhyphen"/>fit
+of the Church.</p>
+            <p>And here, methinks, I am willing to enjoy with
+you, a while, the refreſhment of this comfortable,
+and well grounded hope; and thence to take occa<g ref="char:EOLhyphen"/>ſion
+to alter my ſtile a little, and to ſpeak of the
+Churches gain rather then Her loſs, to congratu<g ref="char:EOLhyphen"/>late
+as well as condole with Her on the account
+of this great man. For the Lives of ſuch men as
+He, even after death, like the blood of Martyrs,
+give nouriſhment and increaſe to the Church:
+Their fame and <hi>memory</hi> remains, when they are gone,
+and ſhall be for ever <hi>bleſſed.</hi> As they were
+<hi>honour'd in their Generation and were the glory of their
+times, ſo have they left a name behind them, that their
+praiſes might be reported;</hi> And with that name an
+Example too, which will live tho' they are dead:
+And thoſe their Praiſes and good Examples are moſt
+powerfull exhortations to ſuitable practice and imi<g ref="char:EOLhyphen"/>tation.
+Their good <hi>actions</hi> are ſo many good <hi>Do<g ref="char:EOLhyphen"/>ctrines,</hi>
+backt and ſeconded by the beſt motive, and
+<pb n="6" facs="tcp:65451:7"/>
+the moſt perſuaſive and convincing application.
+'Tis thus that Holy Church enjoys Her Biſhop
+ſtill, and I hope ever will, by the bleſſed effects of his
+eminent abilities and exemplary Life; tho' He
+himſelf is gone and is ſeen no more. And it is thus
+that he being <hi>dead yet ſpeaketh,</hi> and teaches more pow<g ref="char:EOLhyphen"/>erfully
+from the Grave, then he could formerly
+from the Pulpit. For his <hi>Life</hi> was a better <hi>Ser<g ref="char:EOLhyphen"/>mon</hi>
+then He or any man elſe could ever preach. A
+meer repetition of the chief Heads of it fully and
+faithfully perform'd, would furniſh you out a much
+more uſefull one then <hi>this</hi> of mine, haſty notes and
+imperfect, and moſtly taken at a diſtance, and, by
+the ſhortneſs of the time, now to be made ſhorter.
+It muſt be a juſter account, that muſt duly inform the
+world with what an excellent ſpirit He was indued,
+how full of God and all good things, how conſci<g ref="char:EOLhyphen"/>entiouſly
+and faithfully He ſpent his hours, how in<g ref="char:EOLhyphen"/>duſtrious
+he was in private, and how laborious in
+publick, how covetouſly He hoarded up, and yet,
+how liberally He ſcattered abroad the richeſt trea<g ref="char:EOLhyphen"/>ſures
+of knowledge Humane and Divine, how ho<g ref="char:EOLhyphen"/>lily
+He taught, and as holily liv'd.</p>
+            <p>By this great inſtance, amongſt others, the world
+may ſee and be convinced that a man may be as
+great and good in this, as in any other age of
+Chriſtianity. That the higheſt and moſt Heroical
+repreſentations of virtue are not meer ſcheme and
+fiction, but very real and practicable things; ſuch
+as may be indeed reach'd and effectually attain'd.
+For theſe did all live and appear and flouriſh in the
+Holy Prelate, whom you lately loſt, and we now
+lament. In him we have ſeen plainly and emi<g ref="char:EOLhyphen"/>nently
+<pb n="7" facs="tcp:65451:7"/>
+exemplifi'd what before (perhaps) we had
+only read in the Rule, conceiv'd in Theory or I<g ref="char:EOLhyphen"/>dea,
+or could apprehend and fancy as moſt deſirable
+and lovely in the Character of a Biſhop. All which
+being well conſider'd, I hope I may be allow'd to
+inſiſt on this Illuſtrious inſtance of glorifi'd <hi>Elias,</hi>
+and the words of his renowned Succeſſour <hi>Eliſha,</hi> as
+being ſuch as may very eaſily be accommodated to
+our preſent buſineſs, and may help us to meditations
+proper for this occaſion.</p>
+            <p>For what is the death of Saints but their en<g ref="char:EOLhyphen"/>trance
+into glory? Every good man, at his death,
+aſcends as really, tho' not as viſibly as <hi>Elijah,</hi> and
+is made as certainly happy as he. Their bodies, in<g ref="char:EOLhyphen"/>deed,
+go down to the Grave, and mingle again
+with the duſt, from whence they were taken, ſo
+to remain till the happy hour of an indiſſoluble
+reunion to their ſouls ſhall conſummate the bliſs
+of which that better part had taken poſſeſsion im<g ref="char:EOLhyphen"/>mediately
+after it was diſlodged from the body:
+the ſpirit ſprings upwards as ſoon as ever it feels it
+ſelf free from the clog and weight that preſs'd it
+down: the ſoul of every Saint mounts as ſwiftly
+towards Heaven as <hi>Elijah</hi> himſelf, tho' carried up in
+a flaming Chariot with Horſes of fire. Therefore
+well and wiſely has the Church choſen to celebrate
+the day of their death, as the happieſt and moſt
+memorable of their lives; and ſuch as better de<g ref="char:EOLhyphen"/>ſerv'd
+to be accounted (as it was ſtil'd) their <hi>birth<g ref="char:EOLhyphen"/>day,</hi>
+then that, on which they were born into the
+world. For then they truly begin to <hi>live</hi> when to
+us they <hi>die:</hi> Whenas, that which we commonly
+call our Birth, is indeed but the firſt ſtep we take
+<pb n="8" facs="tcp:65451:8"/>
+in our advance to death: There is a ſhort paſſage
+between the womb and immortality, call'd life; but
+indeed it lies all along in the region of Death,
+to which we are inrol'd ſubjects as ſoon as we en<g ref="char:EOLhyphen"/>ter
+on that path of mortality, and are not a mo<g ref="char:EOLhyphen"/>ment
+free from the malignant influences of his do<g ref="char:EOLhyphen"/>minion,
+till we are got to the end of it, and have
+ſhelter'd our bodies in the Grave, and our ſouls in
+the hands of him that gave them. Then, and not
+before, are we freed from the imperfections and
+incumbrances of fleſh and blood, from all the hid<g ref="char:EOLhyphen"/>den
+ſnares, the ſilent and ſecret incroachments of
+Death, who begins its approaches as ſoon as we
+begin to live: for then he firſt finds us on his own
+ground, and within his reach, and inſtantly quar<g ref="char:EOLhyphen"/>ries
+upon his prey: <hi>As ſoon as we were born we be<g ref="char:EOLhyphen"/>gan
+to draw to our end:</hi> And there is no ſtanding
+ſtill in this walk of Death; <hi>for man that is born of
+a woman never continueth in one ſtay:</hi> He that lives
+moſt healthfully dies daily: <hi>In the midſt of life we
+are in death,</hi> and every moment ripens us for the
+Grave; to which we are ſtill poſting as faſt as the
+wings of time can carry us. Our very health is a
+kind of ſickneſs, and whilſt we ſeem to gather
+ſtrength and lay up plenty of proviſion to prevent
+the ruine or decay of our frail nature, we are re<g ref="char:EOLhyphen"/>ally,
+all that while, but making further advances
+towards our latter end: Death is at work as well
+as we. In vain do we endeavour to intrench and
+fortifie againſt the aſſaults of that obſtinate and un<g ref="char:EOLhyphen"/>relenting
+enemy. An enemy it is that cannot fail
+of victory either by undermining or by ſtorm, by
+<pb n="9" facs="tcp:65451:8"/>
+lingring conſumptions or more acute and violent
+diſtempers. Death will certainly demoliſh our
+ſtrongeſt hold, and eaſily reduce the tottering ta<g ref="char:EOLhyphen"/>bernacle,
+which we poſſeſs and would ſtill gladly
+defend, to ruine and rubbiſh, duſt and aſhes, out
+of which it was firſt rear'd, and to which, accord<g ref="char:EOLhyphen"/>ing
+to its Makers doom, it muſt return by an una<g ref="char:EOLhyphen"/>voidable
+diſſolution. But when we are once ar<g ref="char:EOLhyphen"/>riv'd
+at that period, and have received the laſt
+blow of Death, and happily paſs'd the common
+Gate of Mortality, we are no longer in its power:
+For what is ſaid of the <hi>Head</hi> is true of the <hi>members;</hi>
+That being once dead they <hi>die no more,</hi>
+               <note place="margin">Rom. 6. 9.</note> 
+               <hi>death hath no
+more dominion over</hi> them. That then is the bleſſed
+hour, that compleatly delivers the ſons of men,
+<hi>who through fear of death, were all their life time ſubject
+unto bondage.</hi> It is at that <hi>fatal</hi> moment, as it is
+call'd, which ſeems to reduce us to the loweſt,
+moſt lamentable and helpleſs condition, that the
+Righteous man firſt feels his ſhackles fall off, and
+himſelf ſet free, far out of the reach of the malice
+of Men or Devils. For by dying he has overcome
+his <hi>laſt enemy</hi> which <hi>is death.</hi> Strange victory! But
+yet certain; ſuch almighty efficacy in it ſelf, and
+ſuch a quickning influence on his <hi>members</hi> has the
+Death of our <hi>Head</hi> the Lord <hi>Chriſt;</hi> who having
+firſt himſelf overcome it, teaches and enables us to
+triumph in Death over Death it ſelf.</p>
+            <p>'Tis true the victory is not, in all reſpects, com<g ref="char:EOLhyphen"/>pleat,
+till we have deſtroy'd and ſpoil'd, as well
+as vanquiſh'd, this <hi>King of Terrors:</hi> But that laſt E<g ref="char:EOLhyphen"/>nemy
+cannot be ſo abſolutely ſubdued till the laſt
+day, when Death ſhall be <hi>ſwallowed up in victory;</hi> that
+<pb n="10" facs="tcp:65451:9"/>
+is finally and for ever; ſo ſlain as never to revive;
+for after that, it ſhall <hi>be no more:</hi> Then likewiſe
+ſhall the little victory of the grave be blaſted,
+and the poor remains, we left behind us, wreſted
+out of the jaws of Death, and reſtored to us: But
+how? Not worſted and worn, as they were by
+courſe lodging in the duſt, and long captivity in
+the dark dungeons of the Earth; but all freſh and
+new, and wonderfully changed for the better:
+That which was <hi>ſwon in corruption</hi> will be <hi>rais'd
+in incorruption.</hi> Its <hi>diſhonour</hi> will be turn'd into
+<hi>glory,</hi> and its <hi>weakneſs</hi> into <hi>power;</hi> of a <hi>natural</hi> body,
+as we left it, it will be rais'd and preſented to us all
+over <hi>ſpiritual</hi> and <hi>heavenly.</hi>
+            </p>
+            <p>The ſame indeed, we had before: For tho' it
+be moſt true,<note place="margin">1 Cor. 15. 50.</note> that <hi>fleſh and blood cannot inherit the King<g ref="char:EOLhyphen"/>dom
+of God;</hi> that is, as the <hi>Apoſtle</hi> immediately ex<g ref="char:EOLhyphen"/>plains
+himſelf, <hi>Corruption</hi> cannot <hi>inherit incorruption;</hi>
+yet we know that this mortal muſt be quickned,
+and have learn'd to believe the reſurrection of the
+<hi>fleſh,</hi>
+               <note place="margin">Job 19. 26, 27.</note> and are aſſur'd that we our ſelves, <hi>and not an<g ref="char:EOLhyphen"/>other</hi>
+for us, in our fleſh ſhall ſee God; Even after
+<hi>worms</hi> have <hi>deſtroy'd</hi> our bodies.</p>
+            <p>It will therefore be the ſame, I ſay; and yet
+not that <hi>vile</hi> thing, which once it was, but <hi>chang'd
+and faſhioned like unto his glorious body,</hi> who was <hi>the firſt
+fruits of them that ſlept,</hi> and who is the <hi>reſurrection and
+the life.</hi> Prudent therefore and pious is the Churches
+choice in celebrating the <hi>death</hi> under the notion of
+the <hi>nativity</hi> of ſuch, to whom <hi>the day of their death</hi>
+muſt needs be <hi>better then the day of their birth,</hi> ac<g ref="char:EOLhyphen"/>cording
+to the obſervation of the <hi>Royal Preacher.</hi>
+               <note place="margin">Eccleſ. 7. 1.</note> For
+then it is, that they are born members of the
+<pb n="11" facs="tcp:65451:9"/>
+Church Triumphant, not only <hi>heirs</hi> but <hi>poſſeſſours</hi> of
+Eternal <hi>life.</hi> For they <hi>ſhall not come into condemnation,</hi>
+but are actually and properly paſs'd <hi>from death unto
+life:</hi> Their Saviour hath wip'd away all tears from
+their eyes;<note place="margin">Revel. 21. 4.</note> and to them <hi>there ſhall be no more death,
+neither ſorrow nor crying, neither ſhall there be any more
+pain.</hi>
+            </p>
+            <p>This alone is life properly ſo called; in compa<g ref="char:EOLhyphen"/>riſon
+of which, that of this world, which hath u<g ref="char:EOLhyphen"/>ſurp'd
+the Name, is a very <hi>Death,</hi> only that it con<g ref="char:EOLhyphen"/>tinues
+longer, is more vexatious and tormenting
+then Death it ſelf. Born, indeed, we are, but <hi>unto
+trouble,</hi>
+               <note place="margin">Job 5. 7.</note> 
+               <hi>as the ſparks fly upward.</hi> Cares and fears, tears
+and temptations, doubts and diſappointments di<g ref="char:EOLhyphen"/>ſtract
+the mind; whilſt the body, which partakes
+in thoſe agonies of the ſoul, is alſo miſerably ſub<g ref="char:EOLhyphen"/>jected
+to racks and tortures of its own, to pains
+and diſeaſes that would be deſperate and inſupport<g ref="char:EOLhyphen"/>able,
+were they not, as it were, the <hi>earneſt</hi> and
+<hi>Harbingers</hi> of Death, which puts an end to all
+thoſe tragical miſeries of life. And is not this a
+goodly thing, for men to be ſo fond of, as gene<g ref="char:EOLhyphen"/>rally
+they are, that is it ſelf ſo great a <hi>diſeaſe,</hi> that
+nothing but death can <hi>cure?</hi> That therefore is of<g ref="char:EOLhyphen"/>ten
+call'd for, even by thoſe, who yet are much
+unprepar'd for ſuch a remedy. But how welcome
+then are, or ought to be, the approaches of Death
+ſtingleſs! Such it is to thoſe that <hi>die the death of the
+righteous,</hi> as <hi>they</hi> all do, to be ſure, that have liv'd
+their life; which was well known and con<g ref="char:EOLhyphen"/>ſider'd
+by the Holy Prelate, whom I now com<g ref="char:EOLhyphen"/>memorate.</p>
+            <p>
+               <pb n="12" facs="tcp:65451:10"/>
+Conſcious to himſelf of a <hi>race</hi> happily <hi>run,</hi> of <hi>ta<g ref="char:EOLhyphen"/>lents</hi>
+well <hi>improv'd,</hi> and a <hi>fight</hi> well <hi>fought;</hi> with a
+clear conſcience and an undiſturb'd mind, in a well
+grounded reliance on the Mercies and Merits of his
+Redeemer, the Holy Man, like juſt and devout
+<hi>Simeon,</hi> or this very <hi>Elias</hi> in the Text, humbly
+pray'd for his departure, in my hearing (as I kneeled
+by him) tho', as I have reaſon to believe, againſt
+his will, as well as without his knowledge: For
+He ſeem'd to mind nothing but his God, his eyes
+then ſhut, and his words whiſper'd; tho' both be<g ref="char:EOLhyphen"/>fore
+and after he ſpoke ſtrongly and aloud. It was
+the only Prayer I ever heard him make, to which
+I could not heartily ſay <hi>Amen.</hi> I could have wiſhed
+that He ſhould ſtill have <hi>walked before the Lord</hi> in the
+Land of the Living, and therefore muſt confeſs
+was <hi>afraid</hi> He would be heard, and that God would
+not deny him <hi>the requeſt of his lips,</hi> but would <hi>beſtow</hi>
+Death upon him; ſo preſſing and importunate was
+his Prayer; for He ſeemed to <hi>groan earneſtly,</hi> like S<hi rend="sup">t</hi>
+               <hi>Paul,</hi>
+               <note place="margin">2 Cor. 5. 2.</note> to have that his <hi>earthly Tabernacle diſſolv'd,</hi>
+and to be <hi>cloth'd upon with his houſe from heaven.</hi> And
+yet were thoſe breathings of his ſoul ſent up to
+Heaven with that ſame <hi>Chriſtian</hi> reſignation and ſub<g ref="char:EOLhyphen"/>miſſion
+to the Divine will, which ſo qualifies and
+recommends a Good mans Prayers, that they can<g ref="char:EOLhyphen"/>not
+fail of a favourable audience and ſucceſs. Thus
+He, whoſe Converſation had been ſo much in <hi>Heaven,</hi>
+even whilſt Himſelf was on <hi>Earth,</hi> did <hi>in heart and mind
+thither aſcend,</hi> even before his ſoul could get looſe from
+the troubleſome embraces of the body: And thus like
+<hi>Elijah,</hi> He was not only <hi>carried,</hi> but <hi>went</hi> up to Heaven.</p>
+            <p>
+               <pb n="13" facs="tcp:65451:10"/>
+That Holy <hi>Prophet</hi> gladly mounted up into his
+Heavenly Chariot, leaving moſt willingly <hi>Eliſha,</hi>
+and the world below: The whirlwind it ſelf was
+not in more haſte then He; the Chariot and Hor<g ref="char:EOLhyphen"/>ſes
+and Fire could not move quicker and fly ſwif<g ref="char:EOLhyphen"/>ter
+then did his own ardent deſires toward his ever<g ref="char:EOLhyphen"/>laſting
+bliſs. So did our dying <hi>Biſhop</hi> joyfully part
+with all that He valued here on Earth, and, in <hi>a
+chariot of fire,</hi> mounted unto the Heavens; if I may
+be allowed ſo to ſtile the <hi>Feavour,</hi> that ſnatch'd him
+from us. But if that may ſeem too remote a <hi>Me<g ref="char:EOLhyphen"/>taphor;</hi>
+I know I can truly ſay, that his ſoul ſtill
+ſoared higher and higher in raptures of fervent and
+devout deſires of being <hi>diſſolv'd,</hi> and being with God
+his <hi>exceeding great Reward.</hi>
+            </p>
+            <p>This, indeed, was moſt like the fire, in which
+<hi>Elijah</hi> aſcended unto Heaven: A fire that needed no
+fewel but the devout mind that kindled it: A fire
+that <hi>burn't</hi> but <hi>conſumed</hi> not: Such a fire as warms
+and heats the Holy Angels themſelves, and kindles
+thoſe Divine <hi>Miniſters</hi> into <hi>a flaming fire:</hi> And, per<g ref="char:EOLhyphen"/>haps,
+<hi>They</hi> were the Chariot and the Horſes in the
+Text. Prompt and ready they are to execute all
+the commands of their great Maker, and moſt
+cheerfully do thoſe <hi>Triumphant</hi> ſpirits of <hi>Heaven</hi> fly
+down to ſuccour and aſſiſt Holy men on <hi>Earth</hi>
+and promote the happineſs of <hi>Militant</hi> Saints. But
+Angels or clouds, or whatever it was, fiery it did
+appear; a fit embleme of that <hi>Heroick Zeal</hi> that did
+ſo illuſtriouſly diſcover it ſelf and ſhine forth in the
+life of that great <hi>Prophet:</hi> A zeal for the honour of
+him that ſent him, like that which afterwards, in
+a more Divine manner, appear'd in our bleſſed Sa<g ref="char:EOLhyphen"/>viour,
+<pb n="14" facs="tcp:65451:11"/>
+of whom <hi>Elias</hi> himſelf was a type and, in
+ſome ſence, a forerunner, as well as the <hi>Baptiſt,</hi> who
+came <hi>in his Spirit and Power:</hi> A <hi>zeal</hi> it was, that even
+<hi>conſum'd</hi> him, ſtuck nearer and cloſer to him, then
+any earthly concern of his own; A zeal that He
+durſt own and ſtand to before the <hi>Searcher</hi> and <hi>Judge</hi>
+of hearts;<note place="margin">1 Kings 19. 10, 14.</note> 
+               <hi>I have been very jealous,</hi> ſaith He, more
+then once, <hi>for the Lord God of Hoſts:</hi> It <hi>vex'd his right<g ref="char:EOLhyphen"/>eous</hi>
+ſoul to ſee the Apoſtacy of a <hi>whole</hi> nation, as
+He reckon'd, from God and all goodneſs; <hi>The chil<g ref="char:EOLhyphen"/>dren
+of Iſrael have forſaken thy covenant, thrown down
+thine Altars, and ſlain thy Prophets with the ſword:</hi>
+the deſolation of the <hi>Church</hi> lay heavy on the Good
+man's heart.</p>
+            <p>For <hi>Ahab</hi> walked in the ſins of <hi>Jeroboam;</hi>
+               <note place="margin">1 Kings 12. 28, &amp;c.</note> who, for
+fear <hi>the heart of the people ſhould turn again to their Lord
+the king of Judah,</hi> that he might ſecure his uſurpa<g ref="char:EOLhyphen"/>tion
+and eſtabliſh himſelf, thought it neceſſary to
+invade the <hi>Religion</hi> as well as the <hi>Government</hi> of the
+Nation: And ſo he ſets up Gods of his own, and
+made <hi>Prieſts of the loweſt of the people,</hi> ſuch as were
+not of the ſons of <hi>Levi;</hi> and therefore, having no
+<hi>lawfull Ordination,</hi> uncapable to ſucceed in the <hi>holy
+Function;</hi>
+               <note place="margin">Verſe 33.</note> and he ordained <hi>Feaſts</hi> and made <hi>Sacrifices</hi>
+according to his own fancy; even as <hi>he had deviſed in
+his own heart.</hi>
+               <note place="margin">Ecclus 48. 1.</note> 
+               <hi>Then ſtood up Elias the prophet as fire, and
+his word burnt like a lamp,</hi> as it is expreſs'd by the ſon
+of <hi>Sirach.</hi> Even then, when there was not a man
+on Earth to <hi>ſecond</hi> him, did he couragiouſly keep
+his ground, aſſert the <hi>Church</hi> and its cauſe, and
+made ſtout and vehement proteſtations againſt the
+<hi>Schiſm,</hi> and all their unreaſonable and irreligious
+<pb n="15" facs="tcp:65451:11"/>
+               <hi>Innovations:</hi> Full of God and the Commiſſion, that
+He had from Him, He put himſelf <hi>in the gap,</hi> with<g ref="char:EOLhyphen"/>ſtood
+the torrent of Apoſtacy that had overrun the
+land, boldly rebuk'd vice and called often and a<g ref="char:EOLhyphen"/>loud
+both to <hi>Prince</hi> and <hi>People,</hi> to return to God and
+his Holy <hi>Church.</hi> The haughty and bloody <hi>Jezebel</hi>
+with all her cruel inſtruments, and the many hun<g ref="char:EOLhyphen"/>dred
+Prophets of <hi>Baal,</hi> and of the groves, <hi>that did
+eat at her table,</hi> could not perſuade or fright him from
+his <hi>integrity:</hi> ſtill the holy fire was kept alive in his
+religious breaſt, and flam'd brightly out, on all
+occaſions, into acts of devotion, and zealous un<g ref="char:EOLhyphen"/>dertakings
+for the honour of his God: This I ſay,
+was the fire that ſeems, at the laſt, to have kindled
+for him even the wings of <hi>Angels,</hi> and turn'd them
+into a flaming <hi>Chariot</hi> and <hi>Horſes,</hi> with which He
+aſcended unto a place of Bliſs prepared for him;
+according to that in the firſt of the <hi>Maccabees:
+Elias for being zealous and fervent for the Law,</hi>
+               <note place="margin">1 Maccab. 2. 58.</note> 
+               <hi>was taken
+up into heaven.</hi> It pleaſed God to reward his ſignal
+<hi>piety</hi> with ſignal and ſingular <hi>Honour;</hi> And, for that and
+other reaſons beſt known to his Divine wiſdom, He
+made him an <hi>exception</hi> from the <hi>general rule,</hi> exempting
+him from the common fate of all men, by taking
+him up alive to himſelf in a viſible and moſt won<g ref="char:EOLhyphen"/>derfull
+manner.</p>
+            <p>It is not my preſent <hi>buſineſs,</hi> nor was it my <hi>de<g ref="char:EOLhyphen"/>ſign,</hi>
+or at all in my <hi>thoughts,</hi> when I choſe this <hi>Text</hi> for
+my Theme, to draw a parallel, betwixt the Pro<g ref="char:EOLhyphen"/>phet
+<hi>Elias</hi> and our late <hi>Biſhop;</hi> And yet I judge this
+a proper part of my diſcourſe for the mention of
+that holy zeal for God and every good thing, which
+<pb n="16" facs="tcp:65451:12"/>
+was ſo viſible and lovely in that excellent Perſon.
+God had inrich'd his mind with many extraordi<g ref="char:EOLhyphen"/>nary
+endowments, which render'd him eminent and
+honourable, above moſt of his generation. But no<g ref="char:EOLhyphen"/>thing
+deſerv'd and procur'd him a greater venera<g ref="char:EOLhyphen"/>tion
+and awe from all that knew him, then the
+unblemiſhed <hi>ſanctity</hi> of his life, his <hi>zeal</hi> for God and
+our moſt Holy Religion, and his own ſteddy, uni<g ref="char:EOLhyphen"/>form,
+and exemplary <hi>obedience</hi> to thoſe Evangelical
+precepts, which he ſo faithfully preached and re<g ref="char:EOLhyphen"/>commended
+unto others. The day would fail me,
+before I could recite the many Evidences and In<g ref="char:EOLhyphen"/>ſtances
+that may be given of what I ſay. But it is
+not my buſineſs to write the Great man's <hi>Life,</hi> as
+<hi>he</hi> muſt, and that, very voluminouſly, who under<g ref="char:EOLhyphen"/>takes
+to do him <hi>right</hi> in this particular. His diſ<g ref="char:EOLhyphen"/>courſes,
+deſigns, endeavours, undertakings, his la<g ref="char:EOLhyphen"/>bours
+and his ſtudies, almoſt every thing that he did
+or ſaid, capable of expreſſing the piety of the heart,
+diſcover'd the Holy frame of his Spirit, and con<g ref="char:EOLhyphen"/>vincingly
+prov'd to thoſe that convers'd with him,
+what <hi>Elijah's</hi> miracle did to the widdow of <hi>Sarepta,</hi>
+that he was <hi>a man of God,</hi>
+               <note place="margin">1 Kings 17. 24.</note> and that <hi>the word of the Lord
+was in his mouth.</hi>
+            </p>
+            <p>Nor could ſo ſincere a Piety towards <hi>God</hi> be in
+the <hi>Biſhop</hi> any more then in the <hi>Prophet</hi> without a
+ſuitable love and religious regard to his <hi>Holy Church.</hi>
+But this was ſo eminent in our Prelate, and is ſo
+famouſly known at home and abroad, and his prai<g ref="char:EOLhyphen"/>ſes,
+on this account, are ſo acknowledg'd and re<g ref="char:EOLhyphen"/>ceiv'd
+<hi>in all our Gates,</hi> that I ſhall not need to juſti<g ref="char:EOLhyphen"/>fie
+this part of his <hi>Character,</hi> by alledging here any
+of the very many inſtances of his zeal in oppoſing
+<pb n="17" facs="tcp:65451:12"/>
+the attempts of the late <hi>Schiſm</hi> and <hi>Rebellion.</hi> He did
+not forbear to <hi>proteſt publickly</hi> againſt the <hi>Faction</hi>
+even when it was moſt <hi>formidable:</hi> And in a Sermon
+preach'd before the Univerſity in S<hi rend="sup">t</hi> 
+               <hi>Maries</hi> Church
+in <hi>Cambridge,</hi> He urged them vehemently and con<g ref="char:EOLhyphen"/>vincingly
+to publiſh a formal <hi>proteſtation</hi> againſt the
+<hi>Rebellious League.</hi> And they to whom he ſpoke were
+ſufficiently diſpos'd to comply and cloſe with ſo
+<hi>Chriſtian</hi> and <hi>Loyal</hi> an exhortation. For the ſpirit
+of Error and Deluſion, of Faction and Fury, which
+had long before broke looſe and ravaged far and
+near, confounding and ſubverting all Orders of men
+and things, had not been able to poiſon or cor<g ref="char:EOLhyphen"/>rupt
+that bright and wholeſome <hi>Fountain</hi> of <hi>Learning</hi>
+and <hi>Religion,</hi> tho' ſituated in the midſt of the ene<g ref="char:EOLhyphen"/>mies
+quarters, and perpetually ſurrounded and in<g ref="char:EOLhyphen"/>feſted
+with boiſterous Troops of <hi>Rebels.</hi> The good
+Work was therefore preſently begun and ſoon fi<g ref="char:EOLhyphen"/>niſh'd;
+But could not be publiſhed in the name
+of the whole Corporation, and conſequently not
+at <hi>Cambridge,</hi> becauſe <hi>one</hi> man, who alone could hin<g ref="char:EOLhyphen"/>der
+it, would not permit it to be done. But I have
+not only <hi>Charity</hi> enough to hope, but ſufficient <hi>Reaſon</hi>
+to believe, that He ſoon repented of the oppoſition
+He had made, and became quite of another mind.
+But however, printed it was, tho' moſt of the im<g ref="char:EOLhyphen"/>preſſion
+was ſeiz'd at <hi>London,</hi> before it could get
+abroad; And this Renowned Nurſery of <hi>Learning</hi>
+and <hi>Loyalty</hi> did not looſe the honour of getting the
+ſtart of her equal Siſter, and giving her an excel<g ref="char:EOLhyphen"/>lent
+pattern and encouragement by ſo early and lau<g ref="char:EOLhyphen"/>dable
+an undertaking.</p>
+            <p>In this conſcientious zeal for the Church, did our
+<pb n="18" facs="tcp:65451:13"/>
+Biſhop and many others, to their laſting comfort
+and Renown, faithfully perſevere, to the loſs of
+all they had in this world, but their lives: And
+thoſe <hi>lives,</hi> which God gave them <hi>for a prey,</hi> were
+cheap and vile in their own eyes in competition
+with their <hi>Loyalty</hi> and <hi>Religion;</hi> for which the <hi>Biſhop</hi>
+was ready and reſolv'd, and (ſometimes) very
+likely to reſiſt even <hi>unto blood.</hi> Every place, where
+this Good man ſojourn'd, after He was driven from
+his ſtudy in <hi>Cambridge,</hi> can furniſh out various evi<g ref="char:EOLhyphen"/>dences
+of his pious and reſtleſs endeavours for the
+benefit of the publick. His time was always uſe<g ref="char:EOLhyphen"/>fully
+ſpent, in <hi>confirming</hi> thoſe that ſtood, <hi>ſupporting</hi>
+them that were falling, <hi>raiſing up</hi> them that were
+down, <hi>encouraging</hi> the faint-hearted, and <hi>reducing</hi>
+them that were gone aſtray. In the very worſt of
+times, when the <hi>Rebellion</hi> was <hi>rampant,</hi> and the <hi>bloo<g ref="char:EOLhyphen"/>dy
+Uſurper</hi> had <hi>kill'd and taken poſſeſſion,</hi> then did our
+<hi>Elijah,</hi> even in <hi>Samaria,</hi> in the <hi>Rebels Metropolis,</hi> in
+ſpite of all their menaces and malice, couragiouſly
+ſtand up, and in words aſſert, and in practice per<g ref="char:EOLhyphen"/>form
+his duty to God and to the <hi>Church:</hi> And to
+him gladly flock'd Loyal multitudes of Religious
+and true hearted people, to celebrate thoſe Holy
+Offices (to which they were by Law obliged) in
+<hi>private houſes,</hi> when by armed violence they were for<g ref="char:EOLhyphen"/>ced
+out and driven from the <hi>Churches.</hi>
+            </p>
+            <p>Now, can you believe that this <hi>Heroick</hi> Inſtance
+of <hi>Primitive Chriſtian Loyalty and Zeal,</hi> could be alledg'd
+for the juſtification of <hi>Factious</hi> and <hi>Schiſmatical Conven<g ref="char:EOLhyphen"/>ticles?</hi>
+But what hath not been ſaid and done to
+give life and countenance to the beloved, tho' de<g ref="char:EOLhyphen"/>ſperate,
+<pb n="19" facs="tcp:65451:13"/>
+Cauſe? It might have been hoped that
+ſuch an inſtance of integrity and honeſt perſeve<g ref="char:EOLhyphen"/>rance
+in obedience to the <hi>Church,</hi> in a time of <hi>tryal</hi>
+and <hi>danger,</hi> would have wrought ſome relenting in
+Her perſecutors, and made them more mindfull
+of their own duty for the future. But inſtead of
+that, the thing has been repreſented as an argument
+or defence for the <hi>illegal meetings</hi> of <hi>Nonconformiſts.</hi>
+One would think this could not be intended for
+good earneſt: but be that as it will, I am ſure
+the <hi>Biſhops</hi> anſwer was very ingenious and appoſite;
+and it was to this purpoſe, <hi>that, as our preſent So<g ref="char:EOLhyphen"/>vereign
+was rightfull King of</hi> England, <hi>even when hid
+in the</hi> Royal oak, <hi>and</hi> Cromwell <hi>an Uſurper, tho' at</hi>
+Whitehall <hi>and in the Throne; ſo was He a regular Prea<g ref="char:EOLhyphen"/>cher,
+and his meeting at</hi> Exeter-houſe <hi>a true Congregation,
+of the Church of</hi> England; <hi>whenas the Objectour tho' prea<g ref="char:EOLhyphen"/>ching
+at</hi> S<hi rend="sup">t</hi> Pauls Croſs, <hi>would be ſtill a ſchiſmatick, and
+His aſſembly of Separatiſts a Conventicle even in the Ca<g ref="char:EOLhyphen"/>thedral
+Church of</hi> Canterbury, <hi>or</hi> S<hi rend="sup">t</hi> Pauls <hi>in</hi>
+London.</p>
+            <p>But thus as I was ſaying, did this <hi>Apoſtolical</hi> man
+<hi>endure hardſhip as a good Souldier of Jeſus Chriſt. God
+having not given him the Spirit of Fear, but of Power, of
+Love, and of a Sound mind.</hi> Like his <hi>Lord</hi> and <hi>Maſter</hi>
+He went about doing good, <hi>in meekneſs inſtructing
+thoſe that oppos'd themſelves;</hi> and was <hi>inſtant in ſeaſon and
+out of ſeaſon reproving, rebuking, exhorting with all long<g ref="char:EOLhyphen"/>ſuffering
+and Doctrine.</hi> Thus ſpent he his days of
+mourning, either privately <hi>wreſtling</hi> with his God in
+<pb n="20" facs="tcp:65451:14"/>
+Prayer for <hi>the remnant of Iſrael;</hi> that He would <hi>turn
+the Captivity</hi> of his people, and be <hi>favourable and gra<g ref="char:EOLhyphen"/>cious
+unto Sion, and build up the walls of Jeruſalem;</hi> or
+in publick <hi>contending</hi> with the enemies of the <hi>Church;</hi>
+diſputing both in publick and private with the moſt
+Powerfull and skilfull of the Adverſaries of both
+kinds, <hi>Romaniſts</hi> and others; with equal zeal and
+knowledge, convincing or confounding the gain<g ref="char:EOLhyphen"/>ſayers.
+For He was a <hi>Workman</hi> that needed <hi>not be a<g ref="char:EOLhyphen"/>ſhamed.</hi>
+God had given him many talents, and
+grace to improve them, ſo that as none could be
+more deſirous, neither was there any more able to
+ſerve the Church then Himſelf. Once He was
+ſeiz'd whilſt He was in theſe Holy Exerciſes, and
+by ſpecial Order carried before the <hi>Uſurper</hi> himſelf:
+who expoſtulated with him as <hi>Ahab</hi> did with
+<hi>Elijah,</hi> as a <hi>troubler</hi> of <hi>Iſrael:</hi> But then ſo affectio<g ref="char:EOLhyphen"/>nately
+and ſolidly did the <hi>Apoſtolical</hi> man, like S<hi rend="sup">t</hi>
+               <hi>Paul</hi> before <hi>Felix,</hi> reaſon of thoſe things, for which
+He was call'd in queſtion; that, whether the
+wretch that heard him, had ſence enough left to
+make him <hi>tremble,</hi> or no; certainly, he was not a<g ref="char:EOLhyphen"/>ble
+to reſiſt the <hi>wiſdom</hi> and the <hi>ſpirit</hi> by which he
+ſpake; but, having vouchſaf'd to beſtow ſome few
+good words on the <hi>Church-Prayers,</hi> ſent away the
+Good man, without uſing any further violence,
+at the preſent.</p>
+            <p>But thus far have I been carried by the Conſi<g ref="char:EOLhyphen"/>deration
+of that Holy Fire of Zeal which flam'd
+in <hi>Elijah's</hi> breaſt, to ſpeak of that which was ſo
+plainly diſcernable in our late Prelate. But leave
+we now that bleſſed <hi>Prophet</hi> to the happy rewards
+<pb n="21" facs="tcp:65451:14"/>
+of his Love and Labours, and leave gazing too at
+his wondrous aſcent, the <hi>Whirlwind,</hi> the <hi>Fire</hi> and
+<hi>Flames,</hi> the <hi>Chariot</hi> and <hi>Horſes</hi> that conveyed him
+ſtrangely and ſafely to ſome of the <hi>many manſions</hi> in
+the Fathers houſe. And let us look down a while
+and obſerve and liſten to the behaviour and la<g ref="char:EOLhyphen"/>mentation
+of the forſaken and deſolate <hi>Eliſha.</hi>
+            </p>
+            <p>
+               <hi>Eliſha</hi> was the <hi>humble Friend,</hi> both the <hi>companion</hi> and
+<hi>ſervant</hi> of <hi>Elijah:</hi> He was <hi>Prophet-elect,</hi> being, by Di<g ref="char:EOLhyphen"/>vine
+direction and deſignation, to ſucceed his <hi>Ma<g ref="char:EOLhyphen"/>ſter.</hi>
+But why ſhould he lament then? Why this
+outcry when his <hi>Maſter</hi> was taken from him? Was
+there any thing ſo ſad and grievous to either of the
+two in this tranſlation, that might juſtly provoke
+<hi>Eliſha</hi> to ſuch a tranſport of grief as he ſeemed to
+expreſs when he <hi>cried out, and took hold of his own clothes
+and rent them in two pieces?</hi> He himſelf well knew,
+and had been reminded by other ſons of the Pro<g ref="char:EOLhyphen"/>phets,
+often enough, of what would happen, and
+he expected it at that time, and was come thither
+reſolv'd to be preſent at it: <hi>Elias</hi> himſelf could
+not perſwade him to ſtay behind; ſo that there
+could be no great ſurprize in the caſe. Beſides, it
+was a very glorious <hi>Exit</hi> for his <hi>Maſter,</hi> whom he
+ſaw in State and Triumph aſcending up towards
+Heaven. Here was no room, one would think,
+for ſorrow, no reaſon for lamentation; No ſick
+bed nor dying groans; Nothing of agony or pain,
+nor ought of that ghaſtly <hi>pomp</hi> of Death, that com<g ref="char:EOLhyphen"/>monly
+renders the paſſage to the other ſtate ter<g ref="char:EOLhyphen"/>rible
+and uneaſie, even to the beſt of men, and
+very uncomfortable and grievous to their friends.
+<pb n="22" facs="tcp:65451:15"/>
+Or was it for himſelf that <hi>Eliſha</hi> thus laments, be<g ref="char:EOLhyphen"/>cauſe
+now he had loſt his <hi>Maſter,</hi> who was taken
+<hi>from his head,</hi> and therefore could no longer aſſiſt
+him by his preſence and advice? But what loſs
+could that be to him, who had the <hi>Spirit of God,</hi>
+for his aſſiſtance, was a <hi>Prophet</hi> himſelf, and now
+that <hi>Elijah</hi> was gone, the <hi>Principal</hi> and <hi>Father</hi> of
+them all?</p>
+            <p>But well might He grieve for all this: Not,
+indeed, on the account of his <hi>Maſter,</hi> in whoſe caſe
+there was nothing at all diſmal or deplorable, but
+for himſelf, and for the publick, there was much
+matter of ſorrow: And thoſe conſiderations of a
+juſt grief ſeem to be expreſſed in the <hi>Phraſes</hi> of his
+lamentation: <hi>My father, my father, The chariot of
+Iſrael and the horſemen thereof.</hi> The <hi>firſt</hi> ſpeaks (as
+we have obſerved already) his own private intereſt
+in the <hi>Prophet.</hi> He had loſt a Guide and Gover<g ref="char:EOLhyphen"/>nour,
+a faithfull and able Teacher and Director:
+And ſuch are very frequently and deſervedly ſtil'd
+<hi>Fathers</hi> in Holy Writ; and accordingly they that
+are ſo taught and govern'd are call'd <hi>Sons;</hi> as ſeve<g ref="char:EOLhyphen"/>ral
+times in this very <hi>Chapter,</hi> as well as in other
+places. The Spirit of God indeed, could, and would,
+and did abundantly ſupply <hi>Eliſha</hi> with all things ne<g ref="char:EOLhyphen"/>ceſſary
+for his <hi>Prophetick</hi> Office. But ſtill he had loſt
+a ſure Friend, a pious Companion and wiſe Guide
+of his life; and that's enough to make his mourn<g ref="char:EOLhyphen"/>ing
+appear decent, and to juſtifie all the expreſſi<g ref="char:EOLhyphen"/>ons
+of his ſorrow. But <hi>Eliſha</hi> ſtops not at this re<g ref="char:EOLhyphen"/>flexion
+on his own loſs: That conſideration was
+preſently ſwallowed up by greater. The <hi>Church</hi>
+               <pb n="23" facs="tcp:65451:15"/>
+and <hi>Kingdom</hi> had in <hi>Elijah</hi> loſt a main ornament
+and ſupport; and that is it, which is expreſs'd in the
+following very elegant and ſignificant Phraſes:
+<hi>The chariot of Iſrael and the horſemen thereof.</hi>
+            </p>
+            <p>The appearance, which <hi>Eliſha</hi> then had before
+his eyes, of a <hi>chariot and horſes of fire,</hi> made the com<g ref="char:EOLhyphen"/>pariſon
+the more ſeaſonable, and might be ſuffici<g ref="char:EOLhyphen"/>ent
+to prompt him to it. But that was not the
+only reaſon, if it were at all any occaſion of that
+figurative alluſion. It is like he would have us'd
+the ſame expreſſion, tho' he had ſeen the <hi>Prophet</hi>
+expiring on a <hi>bed,</hi> inſtead of mounting towards
+Heaven in a <hi>chariot;</hi> as it was by King <hi>Joaſh</hi> applied
+to him himſelf,<note place="margin">2 Kings 13. 14.</note> when <hi>fal'n ſick of his ſickneſs whereof
+he died.</hi> The whole world is a looſer by the
+death of a good man; more eſpecially then was
+that Kingdom and people ſo, by the loſs of ſo ex<g ref="char:EOLhyphen"/>celling
+a perſon as was <hi>Elijah:</hi> This truly was a
+becoming argument for the lamentation of a
+<hi>Prophet:</hi> For <hi>when the righteous man periſheth,</hi> or is
+taken away, tho' others do not, yet, <hi>they</hi> that are
+like himſelf will <hi>conſider it, and lay it to heart.</hi> He,
+indeed, <hi>hath hope in his death,</hi> and enters into <hi>peace,</hi>
+and is refreſh'd and <hi>comforted</hi> in <hi>Abraham's</hi> boſom:
+but they that are left behind; they, particularly,
+that liv'd near him, within the direct influence of
+his good deeds and holy example, are really dam<g ref="char:EOLhyphen"/>nified
+by his death; as will ſoon appear by weigh<g ref="char:EOLhyphen"/>ing
+the expreſſions, in which <hi>Eliſha</hi> here bemoan<g ref="char:EOLhyphen"/>eth
+the publick loſs in the perſon of the great
+<hi>Elijah.</hi>
+            </p>
+            <p>
+               <hi>The chariot of Iſrael and the horſemen thereof.</hi> A <hi>Metaphor</hi>
+               <pb n="24" facs="tcp:65451:16"/>
+taken from <hi>war,</hi> and ſo very aptly beſtowed upon
+a <hi>Champion</hi> of the Church <hi>Militant. Chariots</hi> anci<g ref="char:EOLhyphen"/>ently
+were, and <hi>Horſemen</hi> ſtill are a main ſtrength
+and protection to a people, to defend them from,
+and prevent, as alſo to repell and ſuppreſs the in<g ref="char:EOLhyphen"/>ſults
+and invaſions of their enemies. Formidable
+was the force of Chariots of war in the land of
+<hi>Canaan,</hi> when the <hi>Iſraelites</hi> came to diſpoſſeſs the
+former inhabitants, and to plant themſelves in that
+fruitfull countrey: Inſomuch that the houſe of
+<hi>Joſeph,</hi>
+               <note place="margin">Joſh. 17. 16. Verſe 17.</note> tho' a <hi>great people and of great power,</hi> excepted
+againſt the portion allotted to them by <hi>Joſhua,</hi> be<g ref="char:EOLhyphen"/>cauſe
+the enemy, that was in poſſeſſion, had
+<hi>chariots of Iron:</hi> and ſo, all along, we find the
+power of thoſe Princes expreſs'd by the number of
+their <hi>Chariots</hi> and <hi>Horſemen,</hi> both before and after
+the conqueſt of the Countrey by the <hi>Iſraelites.</hi> Ac<g ref="char:EOLhyphen"/>cordingly,
+it is particularly obſerved in the deſcri<g ref="char:EOLhyphen"/>ption
+of <hi>King Solomon's</hi> ſtrength,<note place="margin">2 Chron. 1. 14.</note> that he <hi>gathered Cha<g ref="char:EOLhyphen"/>riots
+and Horſemen, and had a thouſand and four hundred
+Chariots and twelve thouſand Horſemen, which he plac'd in
+the Chariot-cities, and with the King at Jeruſalem.</hi> Nay,
+the invincible force of the <hi>armies</hi> of the Lord of <hi>Hoſts</hi>
+is expreſs'd by the inſpired <hi>Pſalmiſt</hi> with an alluſion to
+this powerfull proviſion for war; where he ſings
+that <hi>the chariots of God are twenty thouſands even thouſands
+of Angels;</hi>
+               <note place="margin">Pſalm 68. 17.</note> of which, perhaps, as I noted before, a
+party were commanded out to fetch <hi>Elijah,</hi> and
+were the ſame that convoy'd that great <hi>Prophet</hi> in
+his aſcenſion unto Heaven: For <hi>they are ſent forth to
+miniſter for them,</hi>
+               <note place="margin">Heb. 1. 14.</note> 
+               <hi>who ſhall be heirs of ſalvation.</hi> But
+<pb n="25" facs="tcp:65451:16"/>
+there were many more of them appointed after<g ref="char:EOLhyphen"/>wards
+for a <hi>Guard</hi> to his ſucceſſour <hi>Eliſha</hi> againſt the
+Horſes and Chariots of the <hi>Syrian King;</hi> when at
+the Prayer of that Prophet,<note place="margin">2 Kings 6. 17.</note> 
+               <hi>the Lord opened the eyes of
+the young man</hi> his ſervant, <hi>and he ſaw, and behold the
+mountain was full of horſes, and chariots of fire, round a<g ref="char:EOLhyphen"/>bout
+Eliſha.</hi> And perhaps there were <hi>two</hi> armies of
+them incamp'd about <hi>Jacob</hi> to keep and conduct
+him and his in ſafety in his return to his own
+Countrey:<note place="margin">Gen. 32. 1, 2.</note> for it is ſaid <hi>the Angels of God met him,
+and he call'd the name of that place Mahanaim;</hi> which <hi>dual</hi>
+word may imply that there were <hi>two</hi> Camps or
+Companies of that Heavenly Hoſt. So that this
+bright <hi>Militia</hi> of Heaven is always ready to execute
+the orders of their Soveraign Lord, whether they
+be to honour and protect his Loyal Subjects, or
+confound his Enemies. And we know what dread<g ref="char:EOLhyphen"/>full
+havock and ſlaughter has been made by a de<g ref="char:EOLhyphen"/>ſtroying
+<hi>Angel</hi> in the ſpace of three days, nay even
+in a night. The Fire and Chariots and Whirlwind
+had orders, as we find in the Text, to attend,
+aſſiſt and adorn the Triumphant aſcenſion of <hi>Elias:</hi>
+But in another caſe, the very ſame are to be diſ<g ref="char:EOLhyphen"/>patch'd
+as meſſengers of Gods <hi>wrath,</hi> the Inſtruments
+and Executioners of his vengeance.<note place="margin">Iſa. 66. 15.</note> 
+               <hi>For behold the
+Lord will come with fire and with his chariots like a whirl<g ref="char:EOLhyphen"/>wind
+to render his anger with fury and his rebuke with flames
+of fire.</hi>
+            </p>
+            <p>From what hath been ſaid it is evident enough,
+that, when <hi>Eliſha</hi> ſtil'd <hi>Elijah the chariot of Iſrael and
+the horſemen thereof,</hi> he intended thereby to expreſs
+him to be the great <hi>Strength, Defence</hi> and <hi>Support</hi> of
+<pb n="26" facs="tcp:65451:17"/>
+the Kingdom: And ſo he was in a moſt eminent
+manner; being extraordinarily commiſſion'd and
+impower'd by God to proteſt againſt the abomi<g ref="char:EOLhyphen"/>nations
+and Apoſtacy of that people; and to en<g ref="char:EOLhyphen"/>deavour
+the reſtitution of Religion, the Reforma<g ref="char:EOLhyphen"/>tion
+of manners, and Eſtabliſhment of Affairs in
+the whole Kingdom: In this Office and Ad<g ref="char:EOLhyphen"/>miniſtration
+<hi>Eliſha</hi> ſucceeded him, and was accord<g ref="char:EOLhyphen"/>ingly,
+when he lay on his death bed, ſaluted and
+acknowledged, as the <hi>chariot and horſemen of Iſrael,</hi> by
+the King himſelf, as I obſerved before.</p>
+            <p>But not theſe two <hi>extraordinary Prophets</hi> only,
+but all the <hi>ſons</hi> of the <hi>Prophets,</hi> all that are ſent by
+God, and ſet apart to be Guides and Paſtours of a
+people, I ſay all and every of theſe, as far as they
+are true to their truſt, and worthily diſcharge their
+duty, are <hi>ſtrengths</hi> and <hi>defences</hi> to the places, where
+they live, and ſo, in ſome preportion, <hi>the chariot and horſe<g ref="char:EOLhyphen"/>men</hi>
+thereof. Nay, ſo is every virtuous and good man,
+in ſome degree. <hi>Sodom</hi> it ſelf had eſcaped its ſo
+much merited and long provok'd deſtruction, if
+<hi>ten</hi> righteous perſons could have been found in
+the whole City; And, <hi>one</hi> ſingle Juſt man might
+have been ſufficient to have indemnifi'd all <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi>
+               <note place="margin">Jer. 5. 1.</note> as appears from the <hi>Prophet Jeremiah.</hi> Every
+good man is a publick good: He helps to ſtave
+off Judgements and bring down bleſſings upon a
+people. Juſt <hi>Lot</hi> ſaved <hi>Zoar,</hi> and the prayers of <hi>Ne<g ref="char:EOLhyphen"/>hemiah</hi>
+rais'd up again, and repair'd the ruines of
+<hi>Jeruſalem.</hi> They have an intereſt and favour in the
+Court of Heaven:<note place="margin">Pſal. 34. 17.</note> 
+               <hi>The eyes of the Lord are upon the
+righteous, and his ears are open to their cry:</hi> They who
+make moſt conſcience of their own duty, make
+<pb n="27" facs="tcp:65451:17"/>
+the beſt Solicitours for others.<note place="margin">John 9. 31.</note> 
+               <hi>If any man be a wor<g ref="char:EOLhyphen"/>ſhipper
+of God, and doth his will, him he heareth.</hi> And
+therefore the <hi>Church</hi> hath always given thanks for
+them, as Publick bleſſings, praiſing Almighty
+God for the good Examples of <hi>all</hi> Holy men and
+women in general, as well as for Biſhops, Prieſts
+and Deacons. But ſuch as by their very <hi>Function</hi>
+and <hi>office</hi> are Holy to the Lord, ſuch whoſe very
+buſineſs it is to bleſs and mediate for the people,
+and to guide and teach them; theſe, I ſay, are in
+a more eſpecial manner, <hi>Protection and Defence, the
+Chariot and Horſemen</hi> unto the Church and Nation,
+unto which they do belong: And this they are
+chiefly on the account of their <hi>Prayers,</hi> their <hi>Precepts</hi>
+and their <hi>Practice.</hi>
+            </p>
+            <p>GOD is moſt likely to hear the <hi>Interceſſions</hi> of thoſe
+whom He Himſelf has appointed to intercede. <hi>A<g ref="char:EOLhyphen"/>bimelech</hi>
+King of <hi>Gerar</hi> was not preſently to be par<g ref="char:EOLhyphen"/>doned
+on the account of the <hi>Integrity</hi> of his heart,
+and the <hi>Innocency</hi> of his hands, which he pleaded,
+and was by God, in ſome ſort allowed, but by the
+<hi>prayers of Abraham:</hi> God would have his mercy and
+bleſſings deſcend in a <hi>regular</hi> way, and what he
+might have given out directly and immediately
+from himſelf, was not to be beſtowed till the <hi>Pro<g ref="char:EOLhyphen"/>phet</hi>
+had <hi>prayed,</hi>
+               <note place="margin">Gen. 20. 7.</note> 
+               <hi>Reſtore the man his wife, for he is a
+Prophet, and he ſhall pray for thee, and thou ſhalt live.</hi>
+When God had denounced heavy Judgements by
+his <hi>Prophet Joel</hi> he preſcribes it as one means to a<g ref="char:EOLhyphen"/>vert
+thoſe impending evils that <hi>Prayers</hi> be made by
+the <hi>Prieſt.</hi>
+               <note place="margin">Joel 2. 17.</note> 
+               <hi>Let the Prieſts the Miniſters of the Lord,
+weep between the porch and the Altar.</hi> Nor did S<hi rend="sup">t</hi> 
+               <hi>James</hi>
+               <pb n="28" facs="tcp:65451:18"/>
+think it ſufficient to adviſe the ſick man to pray
+for himſelf, but remits him to Gods <hi>officers,</hi> ap<g ref="char:EOLhyphen"/>pointed
+for that purpoſe, the publick <hi>Mediatours</hi> and
+<hi>Interceſſours</hi> for the people.<note place="margin">James 5. 14.</note> 
+               <hi>Let him call,</hi> ſaith he, <hi>for
+the Elders of the Church, and let them pray over him.</hi> But
+how very effectual the <hi>fervent prayers</hi> of ſuch men ſome<g ref="char:EOLhyphen"/>times
+are, appears ſufficiently from the inſtance here
+before us of the great <hi>Elijah,</hi> ſingled out by S<hi rend="sup">t</hi> 
+               <hi>James</hi>
+for the ſame purpoſe, and alledged ſoon after the
+words already cited.<note place="margin">James 5. 17.</note> He, I ſay, who, tho <hi>a man
+ſubject to like paſſions as we are,</hi> opened and ſhut the
+Heavens at his pleaſure, kept up the <hi>dew</hi> and <hi>rain,</hi>
+but brought down ſhowres of <hi>fire;</hi> ſo that all things
+hapned <hi>according to</hi> his <hi>word.</hi>
+               <note place="margin">1 Kings 17. 1.</note>
+            </p>
+            <p>The Miniſters of Gods holy Word and Sacra<g ref="char:EOLhyphen"/>ments,
+in reſpect of one part of their Function,
+are Gods Ambaſſadours to the people; but, in this
+of <hi>prayer,</hi> they are <hi>their</hi> Agents and Solicitours with
+God, conſtituted by himſelf as a ſort of <hi>Mediatours</hi>
+for and amongſt men, <hi>Maſters of Requeſts,</hi> reſident
+on Earth, appointed to preſent and offer up the pe<g ref="char:EOLhyphen"/>titions
+of the people to and in the name of the
+<hi>one</hi> great <hi>Mediatour between God and Man:</hi>
+               <note place="margin">1 Tim. 2. 5.</note> And to him
+thoſe addreſſes cannot but be the more acceptable
+as coming in his own Method and way, and thro'
+thoſe hands, to which he has committed ſo great
+a power as to <hi>bind and looſe in Heaven and on Earth,</hi> a
+power not vouchſafed (as S<hi rend="sup">t</hi> 
+               <hi>Chryſoſtom</hi> ſomewhere
+expreſſeth it) <hi>either to Angels or Arch-Angels,</hi> or any o<g ref="char:EOLhyphen"/>ther
+of the moſt glorified favourites of Heaven.</p>
+            <p>If then perſons ſet aſide and conſecrated for the
+<hi>ſervice</hi> of God and his Church be ordinarily accept<g ref="char:EOLhyphen"/>able,
+<pb n="29" facs="tcp:65451:18"/>
+and powerfull Interceſſours; how much does
+this Church and Nation, and, indeed, the whole
+Chriſtian world owe to the pious Devotions of the
+Holy Prelate, of whom we are now ſpeaking!
+Twice a day, moſt duly, beſides his family Prayers,
+He offer'd up to Heaven, either in the Publick
+Congregation, or (when his health could not al<g ref="char:EOLhyphen"/>low
+that) more privately, his daily Homage and
+Sacrifice of <hi>Morning</hi> and <hi>Evening</hi> Prayer and Thankſ<g ref="char:EOLhyphen"/>giving,
+according to the Preſcript of the Church of
+<hi>England.</hi> He that had ſo throughly ſtudied and did
+ſo perfectly underſtand the Beauties and Excellen<g ref="char:EOLhyphen"/>cies
+of the <hi>Engliſh Liturgy,</hi> and ſo frequently and af<g ref="char:EOLhyphen"/>fectionately
+recommended the conſcientious and
+devout uſe of it to all, both Clergy and others;
+and had himſelf received great Spiritual Comfort
+and Advantages by a long and Religious atten<g ref="char:EOLhyphen"/>dance
+on it: He, I ſay, as you will eaſily believe,
+could not allow himſelf in the leaſt neglect of it,
+but went to it and called for it as his <hi>daily bread,</hi> the
+neceſſary food and refreſhment of his ſoul.</p>
+            <p>I need not tell this Congregation, I am ſure,
+how Solemn and Reverend his approaches were
+to this Sacred place, how Holy and <hi>Saint-like</hi> his
+behaviour here. Almoſt every thing that Good
+man did or ſaid was edifying and inſtructive; but
+nothing could well be more ſo, then his devout de<g ref="char:EOLhyphen"/>portment,
+when he had audience with his God.
+The Faith and Fervency, the Humble, yet Reſtleſs and
+Irreſiſtible importunity of his Spirit ſtrugling and
+contending with God in Prayer could not be con<g ref="char:EOLhyphen"/>ceal'd
+from thoſe that ſaw him, but flam'd up from
+his <hi>heart</hi> into his <hi>eyes,</hi> and diſcover'd it ſelf by ſo
+<pb n="30" facs="tcp:65451:19"/>
+many natural indications of Holy and tranſported
+Affections, that the Example was enough to rouze
+and warm the moſt ſluggiſh and frozen Devotion
+of any that did obſerve him. It is no wonder that
+his devout Soul found ſo Divine a relliſh in thoſe
+Prayers, to which He attended with ſo much Re<g ref="char:EOLhyphen"/>verence
+and Religion. The <hi>Prayers of the Church</hi> are
+a <hi>dead</hi> letter to none but ſuch as bring <hi>dead</hi> hearts
+to them,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. diſc. 16.</note> as our <hi>Martyr'd Sovereign</hi> obſerved long
+ſince. And I dare ſay, that all that uſe them, un<g ref="char:EOLhyphen"/>leſs
+the bleſſed effect be hindred by <hi>prejudice</hi> or <hi>pro<g ref="char:EOLhyphen"/>phaneſs,</hi>
+do experience that thoſe <hi>united and well advi<g ref="char:EOLhyphen"/>ſed
+Devotions</hi> are moſt excellently contriv'd to kin<g ref="char:EOLhyphen"/>dle
+and keep alive in us ſuch pious diſpoſi<g ref="char:EOLhyphen"/>tions
+of mind, as are moſt ſuitable to that
+duty.</p>
+            <p>I ſhall not preſume to conduct you from the
+<hi>Church</hi> to the Good mans <hi>Cloſet,</hi> or pretend to reck<g ref="char:EOLhyphen"/>on
+how often in a day He was upon his knees.
+He that did nothing for oſtentation, and under<g ref="char:EOLhyphen"/>ſtood
+ſo well the Reward reſerv'd for good things
+done <hi>in ſecret,</hi> knew how to conceal thoſe Addreſſes
+from the eyes of <hi>man,</hi> which He intended only for
+the notice of his <hi>God.</hi> But his conſtant and ſteddy
+Practice of all Chriſtian duties, the general Holi<g ref="char:EOLhyphen"/>neſs
+of his Life, the viſible delight He took in
+<hi>Prayer</hi> (that great <hi>Priviledge</hi> as well as <hi>Duty</hi> of man<g ref="char:EOLhyphen"/>kind)
+beſides other Evidences, that could not al<g ref="char:EOLhyphen"/>ways
+be kept from the obſervation of thoſe that
+had the honour and happineſs to be near him,
+ſerve to aſſure us, that He <hi>watch'd</hi> unto Prayer,
+pray'd <hi>always, without ceaſing,</hi> and at <hi>all ſeaſons,</hi> accord<g ref="char:EOLhyphen"/>ing
+to a due underſtanding of thoſe expreſſions in
+<pb n="31" facs="tcp:65451:19"/>
+               <hi>Holy Writ.</hi> It was to him a <hi>pleaſant</hi> performance, of
+which He could not be weary. What a <hi>Benefactour</hi>
+(I ſay) then was He to this <hi>Church</hi> and <hi>State,</hi> which
+had ſo great a ſhare in his publick and private Pe<g ref="char:EOLhyphen"/>titions
+ſent up to a Gracious God with ſuch an un<g ref="char:EOLhyphen"/>feigned
+Piety and ardent Zeal!<note place="margin">Luke 18. 1.</note> 
+               <hi>Shall not God hear his
+ſervants that cry day and night unto him?</hi> He that <hi>ask'd</hi>
+ſuch a <hi>queſtion</hi> when He was on <hi>Earth,</hi> will be ſure
+to <hi>anſwer</hi> ſuch <hi>prayers</hi> now he is in <hi>Heaven.</hi> And
+then I am ſure the publick has received manifold
+advantage from the <hi>Biſhop's</hi> earneſt ſupplications put
+up in the behalf of the whole Kingdom; The
+intereſt of which was as dear to him as his own
+Soul, and for which He was almoſt hourly breath<g ref="char:EOLhyphen"/>ing
+out fervent ejaculations,<note place="margin">Rev. 5. 8.</note> and <hi>night and day pray<g ref="char:EOLhyphen"/>ing
+exceedingly.</hi> The prayers of <hi>Saints,</hi> we are told,
+are as <hi>golden vials full of odours;</hi> and thoſe odours are
+ſacrifices of <hi>ſweet ſavour,</hi> unto the God of Heaven.
+Such Sacrifices of Supplications, Interceſſions and
+giving of Thanks, was this Holy Prelate almoſt
+conſtantly offering up unto Almighty God,
+for the <hi>King</hi> and all in <hi>Authority,</hi> for the <hi>Holy Ca<g ref="char:EOLhyphen"/>tholick
+Church,</hi> and for <hi>all Men.</hi>
+            </p>
+            <p>Three moſt ſignal Favours and Bleſſings on this
+Land within our memories I have often heard his
+Lordſhip mention with moſt feeling and affectio<g ref="char:EOLhyphen"/>nate
+expreſſions of Religious Gratitude and Joy.
+The <hi>firſt</hi> was that <hi>Abundance</hi> of Heavenly <hi>Graces</hi> which
+adorn'd the Perſon of our late <hi>Martyr'd Sovereign,</hi> and
+thoſe particularly which did ſo Gloriouſly ſhine
+forth in him under the moſt barbarous indignities
+and bloody violence offer'd him by the <hi>Rebels:
+<pb n="32" facs="tcp:65451:20"/>
+Another</hi> was that ſtupendous revolution of Affairs
+brought about by the miraculous Providence of
+God in the <hi>Reſtitution</hi> of His preſent <hi>Majeſty</hi> and the
+<hi>Church</hi> in Honour and Peace, to the aſtoniſhment
+and confuſion of the Adverſaries of <hi>them Both.</hi> The
+<hi>Third</hi> was the wonderfull diſappointment and moſt
+happy Diſcovery of the late <hi>Fanatical</hi> and <hi>Republican</hi>
+Conſpiracy againſt the Life of His Sacred <hi>Majeſty</hi>
+and His <hi>Royal</hi> Brother. And to theſe He added that
+more Publick and General Mercy of God in ap<g ref="char:EOLhyphen"/>pearing
+ſo ſeaſonably and ſo mightily for the de<g ref="char:EOLhyphen"/>fence
+of our common <hi>Chriſtianity,</hi> by putting a hook
+in the Noſtrils of the <hi>Turkiſh Leviathan,</hi> and pulling
+him back again, and humbling him even to the
+duſt; when he ſeemed to himſelf and us in poſſeſ<g ref="char:EOLhyphen"/>ſion
+of his prey, and to have little to do but to
+<hi>kill and eat.</hi> Theſe were Bounties and Largeſſes of
+Heaven, that fill'd the heart of the Holy <hi>Biſhop</hi> with
+daily <hi>Hallelujahs:</hi> He could hardly ever ſpeak of them
+without tears of Joy: And doubtleſs they relliſhed
+the more comfortably to his Soul, becauſe he had
+reaſon to apprehend them as ſo many Gracious re<g ref="char:EOLhyphen"/>turns
+and anſwers to his Prayers.</p>
+            <p>In ſhort, That <hi>Kings</hi> and <hi>Princes</hi> do again <hi>enter in<g ref="char:EOLhyphen"/>to
+the Gates</hi> of our Cities, and the <hi>Regal Throne</hi> is not
+diſhonour'd and polluted by <hi>Uſurpation,</hi> that our
+<hi>Judges</hi> are reſtored <hi>as at the firſt,</hi>
+               <note place="margin">Iſa. 1. 26.</note> and our <hi>Counſellers as
+at the beginning;</hi> that our <hi>Holy Religion</hi> is ſecur'd to us
+by the reeſtabliſhment of the moſt <hi>Apoſtolical</hi> conſti<g ref="char:EOLhyphen"/>ſtitution
+of <hi>this Church;</hi> that we do not <hi>eat our bread
+with carefulneſs,</hi>
+               <note place="margin">Ezech. 12. 19.</note> 
+               <hi>and drink our water with aſtoniſhment;</hi>
+But free from oppreſſion either foreign or dome<g ref="char:EOLhyphen"/>ſtick
+<pb n="33" facs="tcp:65451:20"/>
+we <hi>do</hi> or <hi>may</hi> lead quiet and peaceable lives
+in all Godlineſs and honeſty: All this, I ſay, and
+all elſe in this world, that is or ought to be dear
+to <hi>Men</hi> and <hi>Chriſtians,</hi> we owe under God to the fer<g ref="char:EOLhyphen"/>vent
+Prayers of ſuch Holy Men as this, of whom
+we are now ſpeaking: In this reſpect therefore
+they are not unworthy of the Compellation in the
+Text.<note place="margin">Greg. Nyſſ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> Since <hi>Prayer</hi> it ſelf is ſuch ſure <hi>armour and de<g ref="char:EOLhyphen"/>fence,</hi>
+ſuch a <hi>ſhield and buckler,</hi> and mighty Prote<g ref="char:EOLhyphen"/>ction
+both day and night, as we know it is, the
+Holy Men that are aſſiduous in this devout exer<g ref="char:EOLhyphen"/>ciſe,
+and expert managers of ſo powerfull a wea<g ref="char:EOLhyphen"/>pon
+of our <hi>Chriſtian warfare</hi> may well be eſteemed
+the <hi>Chariot and Horſemen;</hi> that is, a great ſtrength
+and defence to the <hi>Church</hi> and <hi>Nation,</hi> in which they
+live, and for which moſt eſpecially they are con<g ref="char:EOLhyphen"/>cern'd.</p>
+            <p>BUT ſuch they are ſtill on another account; and
+that is, as they <hi>labour in the word and doctrine;</hi> when
+to their <hi>Prayers</hi> they add <hi>Precepts,</hi> and joyn <hi>Inſtru<g ref="char:EOLhyphen"/>ction</hi>
+to their <hi>Interceſsion:</hi> By <hi>one</hi> they prepare and
+beſpeak Mercies; by the <hi>other</hi> they qualifie the Peo<g ref="char:EOLhyphen"/>ple
+and make them capable to receive them: The
+choiceſt Bleſſings of <hi>this</hi> life, will turn <hi>at laſt</hi> to no
+comfortable account, if we are not, by a right
+uſe of them, ſomething better'd, and ſo made fit<g ref="char:EOLhyphen"/>ter
+for <hi>another.</hi> Now theſe men I ſpeak of are to
+teach us how to make that Saving Uſe of them;
+For they are Meſſengers of God ſent by him with
+full Commiſſion and ample Inſtructions to make
+known the <hi>the whole will of God for our ſalvation.</hi> It is
+<pb n="34" facs="tcp:65451:21"/>
+true,<note place="margin">Rom. 10. 13. 14.</note> that <hi>whoever calls upon the name of the Lord ſhall
+be ſaved:</hi> But <hi>they</hi> cannot <hi>call</hi> on him that do not
+<hi>believe</hi> in him, which they cannot do, unleſs they
+have <hi>heard</hi> of him; nor can they hear of him <hi>with<g ref="char:EOLhyphen"/>out
+a Preacher,</hi> and that Preacher muſt be <hi>ſent.</hi>
+            </p>
+            <p>Nor is this Office of <hi>Teaching</hi> neceſſary only for
+the <hi>firſt</hi> publiſhing of the <hi>Goſpel:</hi> Otherwiſe, our
+<hi>Saviour</hi> needed not to have aſſur'd his <hi>Apoſtles,</hi> as he
+did, of his preſence with them and their <hi>Succeſſours
+even unto the end of the world:</hi>
+               <note place="margin">Matth. 28. 20.</note> The Teaching part
+of their Office might have been diſpatched in a
+few years, if it had been ſufficient for the edifica<g ref="char:EOLhyphen"/>tion
+and eſtabliſhment of the <hi>Church</hi> to have the
+foundations of it laid by publiſhing the Chriſtian
+Faith to the whole world. But we know that God
+gave <hi>Apoſtles,</hi>
+               <note place="margin">Epheſ. 4. 11, 12, 13.</note> 
+               <hi>Prophets, Evangeliſts, Paſtours and Teach<g ref="char:EOLhyphen"/>ers
+for the perfecting of the Saints, for the work of the Mini<g ref="char:EOLhyphen"/>ſtry,
+for the edifying of the body of Chriſt, till we all come in
+the Unity of the Faith, and of the knowledge of the ſon of
+God unto a perfect man; unto the meaſure of the ſtature of the
+fulneſs of Chriſt.</hi> And that's a work that will be
+ſtill in doing, in ſome particulars at leaſt and in
+ſome perſons, ſo that we ſhall never be per<g ref="char:EOLhyphen"/>fect
+enough in this world to ſtand in no need of
+our Teachers.</p>
+            <p>To them it appertains to <hi>ſtrengthen the diſeaſed,</hi>
+               <note place="margin">Ezek. 34. 4.</note> 
+               <hi>heal
+the ſick, bind up that which is broken, ſeek that which is
+loſt, and bring back that which is driven away:</hi> And there
+will be ſooner want of <hi>labourers</hi> then <hi>work</hi> for
+them in all theſe particulars of their employment.
+It is the faithfull Teachers part to deliver to the
+people that which He hath <hi>received of the Lord,</hi> to
+<pb n="35" facs="tcp:65451:21"/>
+withſtand the oppoſtion and contradiction of thoſe
+that would obtrude any thing <hi>contrary to the form of
+ſound words,</hi> and to <hi>contend earneſtly for the faith once de<g ref="char:EOLhyphen"/>livered
+to the Saints:</hi> He is not only the <hi>Watchman,</hi>
+that <hi>obſerves</hi> the approach of the Enemy, but the
+<hi>Warriour</hi> alſo and the Guard that <hi>repels</hi> him. He
+deſcries afar off and gives notice of all the ſlie ma<g ref="char:EOLhyphen"/>licious
+deſigns and attempts of Hereticks and In<g ref="char:EOLhyphen"/>novatours,
+all that <hi>lie in wait to deceive,</hi> that would
+invade the <hi>vineyard</hi> of the <hi>Church,</hi> either by open
+Violence, or private and Treacherous inſinuations.
+He countermines the ſecret and wily workings of
+the <hi>Moles</hi> and <hi>Foxes,</hi> as well as fortifies againſt the
+furious aſſaults of <hi>wild Boars</hi> and other rampant
+Beaſts of prey. He encourageth the Righteous man
+to perſevere in the happy courſe that he hath be<g ref="char:EOLhyphen"/>gun,
+applauds his progreſs in the paths of Piety,
+bids him look forward and <hi>preſs on to the mark for the
+prize of the high calling of God in Chriſt Jeſus.</hi>
+               <note place="margin">Phil. 3. 14.</note> He
+plains and ſmoothes his way before him by remo<g ref="char:EOLhyphen"/>ving
+the impediments and ſlumbling-blocks of
+ſcruples, doubts and difficulties, ſtrengthens his
+Conſcience, adminiſters cordials and comforts,
+and never leaves till he has conducted him ſafe to
+the bleſſed end and Reward of all his troubles and
+endeavours. The ſinner he warns of the danger of
+his ſin, and delivers his own ſoul by endeavouring to
+ſave <hi>his.</hi> He lifts up his voice <hi>like a trumpet</hi> and ſpares
+not; but ſhews the <hi>people their tranſgreſsion and the houſe
+of Jacob their ſin.</hi> He tells them of the danger they
+are in, and points to the gaping precipices that are
+in their way ready to ſwallow them up into ever<g ref="char:EOLhyphen"/>laſting
+<pb n="36" facs="tcp:65451:22"/>
+deſtruction. He <hi>ſpeaks, exhorts, rebukes with all
+authority,</hi> fearleſly he ſets his face and propheſieth a<g ref="char:EOLhyphen"/>gainſt
+them.</p>
+            <p>And now tell me, does not ſuch a one as this,
+that thus in all things approves himſelf <hi>as the Mi<g ref="char:EOLhyphen"/>niſter
+of God,</hi> deſerve to be ſtyl'd <hi>chariot and horſemen,</hi> a
+great ſupport and defence of the people? Such an
+one was <hi>Elijah</hi> here mention'd: and ſuch an one
+too was the Holy <hi>Biſhop,</hi> whom I commemorate in
+this diſcourſe. You have read the hiſtory of the
+former, and ſo know well <hi>what the Scripture ſaith of E<g ref="char:EOLhyphen"/>lias,</hi>
+of his conſtancy in his Religion, and his ma<g ref="char:EOLhyphen"/>ny
+dangers in endeavouring to inſtruct the people
+in their duty, and reclaim them from their foul
+Apoſtacy, and bring them back to the <hi>Church</hi> and
+worſhip of God.</p>
+            <p>Nor are you or the world ignorant of your late
+<hi>Biſhop's</hi> great <hi>Abilities</hi> and as great <hi>Induſtry</hi> in Teach<g ref="char:EOLhyphen"/>ing.
+You I ſay of <hi>this</hi> Church eſpecially can <hi>tell of
+his wiſdom,</hi>
+               <note place="margin">Ecclus. 44. 15.</note> and <hi>this</hi> Congregation can <hi>ſhew forth his
+praiſe.</hi> You are happy witneſſe how He mini<g ref="char:EOLhyphen"/>ſter'd
+the gifts that He had received, as a good
+<hi>Steward of the manifold grace of God:</hi> You ſaw with
+<hi>wonder,</hi> and perhaps, not without <hi>pity,</hi> how unmer<g ref="char:EOLhyphen"/>cifull
+He was to <hi>his own body,</hi> that He might be
+profitable to <hi>your ſouls,</hi> by his indefatigable labours
+in Preaching and in Catechiſing: And not <hi>you</hi> a<g ref="char:EOLhyphen"/>lone
+but <hi>all</hi> that ever had the happineſs to be un<g ref="char:EOLhyphen"/>der
+his charge, or near the places of his Reſidence,
+were, or might have been, not only witneſſes,
+but partakers of the benefit of his labours in the
+publick. He was never weary of doing Good; and
+<pb n="37" facs="tcp:65451:22"/>
+tho' his body, unable to keep pace with the zeal
+and eagerneſs of his mind, languiſh'd and fainted
+in the ſervice; yet could He never be perſwaded
+in his age and weakneſs to abate any thing of the
+toils and hardſhips of his younger and ſtronger
+days. He knew God had intruſted him with much,
+and therefore was very intent on the great account
+He was one day to give of the uſe and improve<g ref="char:EOLhyphen"/>ment
+of ſo great a treaſure. He had always a
+ſteddy eye on <hi>that bleſſed hope and the glorious appear<g ref="char:EOLhyphen"/>ing
+of the great God and our Saviour Jeſus Chriſt.</hi> A
+deep and Religious meditation on this made him
+covetous of his time, fearfull and impatient of o<g ref="char:EOLhyphen"/>mitting
+any opportunity of doing good; for which
+He could not but be ſenſible that He was admi<g ref="char:EOLhyphen"/>rably
+qualified and prepar'd.</p>
+            <p>'Tis true, and He knew it well, that a <hi>Biſhop</hi>
+may be able to give a very good account of the
+truſt repoſed in him, tho' He be not often in the
+<hi>Pulpit</hi> or the <hi>Desk:</hi> He may be <hi>apt to teach</hi> and do
+it effectually, tho' He make not many <hi>Sermons,</hi>
+in the vulgar uſe and ſignification of the word: If
+He makes due inquiſition into the merits and man<g ref="char:EOLhyphen"/>ners
+of his <hi>Clergy,</hi> and takes full pains and care to
+inſtruct by way of Conference or otherwiſe, to ad<g ref="char:EOLhyphen"/>viſe,
+commend, rebuke, encourage, diſcountenance,
+reward, and ceſure as often and as far as occa<g ref="char:EOLhyphen"/>ſion
+ſhall require; He, I ſay, that ſhall conſtantly
+and conſcientiouſly diſcharge theſe and ſuch other
+acts of Government; as He will not abound with
+ſpare time for other purpoſes, ſo will He thereby
+moſt certainly benefit and edifie the <hi>Church</hi> much
+more then He can do by <hi>Sermons</hi> and ſuch like
+<pb n="38" facs="tcp:65451:23"/>
+ſet and Solemn Diſcourſes to the people; how<g ref="char:EOLhyphen"/>ever
+induſtrious He may be and frequent in that
+employment.</p>
+            <p>But the Great Good man, that I am ſpeaking
+of thought He had time and ſtrength enough, for
+more then was or could be reaſonably expected
+from him. And truly I fear He was much miſta<g ref="char:EOLhyphen"/>ken
+in the judgement He made of the ability of
+his <hi>body.</hi> Indeed, nothing could be too much for
+his <hi>ſoul:</hi> His mind and memory (admirably
+ſtock'd and ſtor'd) plentifully furniſhed out mat<g ref="char:EOLhyphen"/>ter
+and words, whenever He had occaſion for
+them.</p>
+            <p>Few men have acquir'd a more general, per<g ref="char:EOLhyphen"/>fect,
+and comprehenſive knowledge in moſt parts
+of Learning than He himſelf had. But in <hi>Theology,</hi>
+in the ſtudy of the holy Scriptures and all Anti<g ref="char:EOLhyphen"/>quity
+uſefull for the explaining and illuſtrating the
+Doctrines and Myſteries of our holy Religion, He
+was ſo very extraordinarily verſed, that it is hard<g ref="char:EOLhyphen"/>ly
+poſſible for any to labour therein more fruit<g ref="char:EOLhyphen"/>fully
+and ſuccesfully then did this Prelate. The
+foundation of ſo many Excellencies were laid in
+his Nature, his Temper and Conſtitution. For (as
+I have ſhewn already) God had furniſhed this <hi>cho<g ref="char:EOLhyphen"/>ſen
+veſſel</hi> with all that was requiſite for the great
+improvements and purpoſes, for which He was in<g ref="char:EOLhyphen"/>tended.
+His Induſtry from his very Youth was ex<g ref="char:EOLhyphen"/>traordinary
+and beyond Example; for the ſupport<g ref="char:EOLhyphen"/>ing
+of which God had provided him a ſtrong bo<g ref="char:EOLhyphen"/>dy,
+and a firm health, which laſted him many
+years; and, as his Phyſicians and Friends thought,
+might have held out much longer could He have
+<pb n="39" facs="tcp:65451:23"/>
+been perſwaded to have remitted ſomewhat of
+his continual pains and ſeverities to himſelf.</p>
+            <p>But He was not convinc'd by ſuch their care<g ref="char:EOLhyphen"/>full
+and affectionate remonſtrances for his health.
+I wiſh in this one particular He would have been
+govern'd more by others then himſelf; for per<g ref="char:EOLhyphen"/>haps
+in this one only could they adviſe him bet<g ref="char:EOLhyphen"/>ter.
+He found ſuch delight in preparing his
+thoughts for the publick, and ſo much pleaſure
+after the performance, that He had no leiſure to
+obſerve how greatly his <hi>body</hi> had ſuffer'd, and paid
+for that ſatisfaction of his <hi>mind.</hi> It was meat and
+drink, exerciſe and recreation, life and health to
+him to be ſearching the Scriptures, comparing and
+pondering on <hi>the lively and holy Oracles of God,</hi> and
+then to deliver his happy and well digeſted medi<g ref="char:EOLhyphen"/>tations
+to the people: He was <hi>well</hi> when He was
+thus employed, as He thought and ſaid; Where<g ref="char:EOLhyphen"/>as,
+indeed, too often this was no more but that
+He was <hi>well-pleaſed.</hi> That chearfulneſs and com<g ref="char:EOLhyphen"/>placency
+of mind, which is the preſent natural
+reward and conſequent of a conſcientious diſcharge
+of duty, that teſtimony and approbation which a
+mans own breaſt pays to his ſincerity and worthy
+endeavours, this Good <hi>Biſhop</hi> I believe, often inter<g ref="char:EOLhyphen"/>preted
+as an effect of health, and the natural
+ſtrength of his own body; or at leaſt, plac'd too
+much of it to that account. The weakneſs and de<g ref="char:EOLhyphen"/>cay,
+which He felt in himſelf and could not but
+acknowledge, He wholly aſcrib'd to other cauſes,
+but would impute nothing of it to his immoderate
+pains in Studying and Preaching.</p>
+            <p>But, had He been convinc'd that thoſe his la<g ref="char:EOLhyphen"/>bours,
+<pb n="40" facs="tcp:65451:24"/>
+by night and day preſs'd too hard on his in<g ref="char:EOLhyphen"/>feebled
+body and impair'd his health; I queſtion
+whether the argument would have prevailed to
+have made him ſpare himſelf, as much as his
+Friends deſir'd. And for this I have reaſon from
+what I have heard him ſay, particularly a day or
+two before his laſt ſickneſs, when obſerving his <hi>lan<g ref="char:EOLhyphen"/>guiſhing</hi>
+looks, and being in private with him I took
+the boldneſs, to inſiſt more vehemently then ever
+I had done on this ſubject; For He then with
+ſome warmth and earneſtneſs told me that He
+would never be perſwaded to indulge his eaſe to
+the neglect of any opportunity of doing good,
+<hi>&amp; propter vitam vivendi perdere cauſas.</hi> He deſir'd to
+live no longer, then when whilſt he might be ſer<g ref="char:EOLhyphen"/>viceable
+to the <hi>Church.</hi>
+            </p>
+            <p>But to return: It is no wonder, that ſo great
+natural Endowments carefully cultivated by un<g ref="char:EOLhyphen"/>wearied
+induſtry and aſſiduous application did mul<g ref="char:EOLhyphen"/>tiply
+into ſo vaſt an increaſe, and turn at laſt to ſuch
+excellent account, as we know they did in this <hi>Bi<g ref="char:EOLhyphen"/>ſhop:</hi>
+Eſpecially, if we conſider, that He <hi>prayed</hi> as
+hard as He <hi>ſtudied.</hi> He well knew that without
+God He could do <hi>nothing;</hi> that in order to the hap<g ref="char:EOLhyphen"/>py
+ſearching the Scriptures and full comprehend<g ref="char:EOLhyphen"/>ing
+the reveal'd will of God and the Sacred my<g ref="char:EOLhyphen"/>ſteries
+of our <hi>Holy Faith,</hi> there was need of ſpecial
+aſſiſtance from the <hi>Holy Spirit;</hi> and the bleſſing of
+him <hi>that teacheth man knowledge,</hi> and conducteth the
+pious enquirer <hi>into all Truth;</hi> That otherwiſe it was
+<hi>in vain to riſe up early or to ſit up late.</hi> Therefore,
+like <hi>Daniel,</hi>
+               <note place="margin">Dan. 10. 12.</note> He <hi>ſet his heart to underſtand and chaſten'd
+<pb n="41" facs="tcp:65451:24"/>
+himſelf before his God, and his words were heard,</hi> or,
+as the <hi>Pſalmiſt,</hi>
+               <note place="margin">Pſal. 138. 3.</note> He <hi>call'd upon God, and he heard him,
+and endued his ſoul with much ſtrength:</hi> Thus was our
+Holy <hi>Biſhop</hi> made <hi>wiſe unto ſalvation,</hi> and <hi>profitable</hi> to
+his Generation, <hi>for doctrine, for reproof, for correction,
+for inſtruction in righteouſneſs:</hi> In a word, as it fol<g ref="char:EOLhyphen"/>lows
+in the place to which I allude,<note place="margin">2 Tim. 3. 17.</note> A <hi>man of God
+perfect and throughly furniſhed unto all good works.</hi>
+And <hi>you</hi> have heard and ſeen his wiſdom and his
+worth; and not you alone, but many thouſands
+of others, all people and places whereever and
+with whomſoever He had converſe, can bear true
+teſtimony that He <hi>gave</hi> as freely as He had <hi>received,</hi>
+and, <hi>like a Scribe inſtructed unto the Kingdom of Heaven,</hi>
+was continually ſpending and pouring out his in<g ref="char:EOLhyphen"/>exhauſtible
+Treaſures of Sound Doctrine and Edi<g ref="char:EOLhyphen"/>fying
+Knowledge, to the unſpeakable delight and
+advantage of thoſe, that came to be inſtructed
+by him.</p>
+            <p>And they came in great numbers, not of this
+Nation only, but from abroad and remoter
+Countreys. For that which He did in the <hi>Church</hi>
+was the leaſt part of the pains He took, and of his
+labouring <hi>in the Word and Doctrine.</hi> But this is no
+time and place for a particular account of ſuch
+matters. It is well enough known, that his houſe
+was rarely without ſome Foreign Viſitant led thi<g ref="char:EOLhyphen"/>ther
+by the far-ſpread fame of the Renowned <hi>Bi<g ref="char:EOLhyphen"/>ſhop:</hi>
+Scholars from almoſt all parts of the Chri<g ref="char:EOLhyphen"/>ſtian
+world, <hi>Greeks</hi> and <hi>Latines,</hi> flock'd to him;
+whom they found, like a true <hi>Apoſtolical Biſhop,
+Given to hoſpitality and apt to teach.</hi>
+               <note place="margin">1 Tim. 3. 2.</note> His doors and his
+<pb n="42" facs="tcp:65451:25"/>
+purſe were open to receive and relieve them that
+were in want; and his heart and mouth always
+ready to inſtruct thoſe that deſired to be in<g ref="char:EOLhyphen"/>formed.</p>
+            <p>A great part of his time was ſpent in explain<g ref="char:EOLhyphen"/>ing
+and juſtifying to ſtrangers and others the
+<hi>regular</hi> and <hi>Catholick</hi> conſtitution of the <hi>Church of
+England,</hi> and in aſſerting Her <hi>Doctrine</hi> and <hi>Diſcipline</hi>
+and whole entire <hi>frame</hi> againſt the oppoſition of
+Her Adverſaries, the <hi>Romaniſts,</hi> and all other <hi>Recu<g ref="char:EOLhyphen"/>ſants</hi>
+of various denominations amongſt our ſelves.
+And theſe unwearied endeavours of this Holy Man
+God has been pleaſed to crown often with good
+ſucceſs. Many thereby have been confirmed in the
+Communion of the <hi>Church,</hi> with whom Bigots of
+<hi>Rome,</hi> or other Zealots of the <hi>Schiſm</hi> had been dan<g ref="char:EOLhyphen"/>gerouſly
+tampering. Several quite <hi>ſpirited</hi> away
+by ſuch <hi>Emiſſaries</hi> and <hi>Agents</hi> He retriev'd and
+brought back again to their <hi>Reaſon</hi> and <hi>Religion.</hi>
+Foreigners have parted from him not only fill'd
+with admiration of his own worth, but alſo high<g ref="char:EOLhyphen"/>ly
+ſatisfied with the excellent Frame and Order of
+this <hi>Church,</hi> which had before been ignorantly or
+maliciouſly repreſented to them: And the report
+which they have accordingly made to their own
+people at their return home has rebounded back
+and been brought hither again, to the great praiſe and
+honour of this <hi>Chriſtian Catholick Church,</hi> ſo happily
+eſtabliſh'd in this Land. Theſe (I ſay) are things
+well known to many, but not to be by me at pre<g ref="char:EOLhyphen"/>ſent
+branch'd out into any of their many great in<g ref="char:EOLhyphen"/>ſtances,
+or expanded to their due advantage. That,
+<pb n="43" facs="tcp:65451:25"/>
+if done according to the dignity of the ſubject and
+the great abundance of the matter it affords, would
+be a more proper Theme for a <hi>juſt volume</hi> then the
+few narrow Pages of a popular <hi>Sermon.</hi> It ſufficeth
+me to have ſaid enough on this Head, to ſhew,
+that this Prelate was a worthy <hi>Champion</hi> of our
+Faith, and an able <hi>Defender</hi> of the <hi>Church,</hi> and there<g ref="char:EOLhyphen"/>fore
+very capable of ſuch a compellation as <hi>Eliſha,</hi>
+on the account of the like excellencies, gave
+to <hi>Elijah: The chariot of Iſrael and the horſemen
+thereof.</hi>
+            </p>
+            <p>THE <hi>laſt</hi> thing I ſhall inſiſt on, as a reaſon or
+juſtification of that <hi>great Title,</hi> is the great good
+that is done, and the mighty advantage that ac<g ref="char:EOLhyphen"/>crues
+to the Publick from the Lives and Examples of
+Good and Holy men, eſpecially thoſe of a <hi>Sacred
+Character.</hi> Certain it is, that men are generally con<g ref="char:EOLhyphen"/>vinc'd
+and guided more by their Eyes then Ears.
+<hi>Precepts</hi> and <hi>Exhortations</hi> affect the mind but ſlowly
+and weakly, whilſt <hi>Actions</hi> and <hi>Examples</hi> move
+ſtrongly and with power; ſo that if they be but
+advantagiouſly repreſented and duly attended to;
+they are <hi>winning</hi> and <hi>perſwaſive,</hi> and have a very
+quick and almoſt irreſiſtible influence and efficacy
+in ſoliciting the conſent of the will, and prompt<g ref="char:EOLhyphen"/>ing
+it to imitation. For virtue <hi>moves practically,</hi> as
+<hi>Plutarch</hi> expreſſeth it,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Peric.</note> 
+               <hi>moralizing</hi> the beholder, and,
+as it were, transforming him into its own likeneſs:
+It draws him to imitation neither able nor willing
+to reſiſt that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the ſame <hi>Authour</hi> well
+ſtiles the influence of a <hi>Good Example.</hi> Our <hi>Bleſſed
+<pb n="44" facs="tcp:65451:26"/>
+Saviour</hi> himſelf, tho' anointed to preach the <hi>Goſpel</hi>
+by the <hi>Holy Ghoſt,</hi> which He received <hi>without mea<g ref="char:EOLhyphen"/>ſure,</hi>
+and tho' aſſiſted with all the powers of the <hi>God-Head,</hi>
+               <note place="margin">Col. 2. 9.</note> which <hi>dwelt bodily in him;</hi> tho' God immedi<g ref="char:EOLhyphen"/>ately
+from Heaven, in an audible voice, beſpoke and
+prepar'd for him and his <hi>Goſpel</hi> attentive Audience, du<g ref="char:EOLhyphen"/>tifull
+Reception, and Univerſal Obedience and
+Conformity, as to the words and will of the de<g ref="char:EOLhyphen"/>clar'd
+Son of God,<note place="margin">Mat. 17. 5.</note> in whom He was <hi>well-pleaſed;</hi>
+And tho' He himſelf taught with <hi>Authority,</hi> and
+ſpake as <hi>never man</hi> did,<note place="margin">John 7. 46.</note> according to the frank con<g ref="char:EOLhyphen"/>feſſion
+of his moſt bloody Enemies; and all
+<hi>wondred at the gracious words which proceeded out of his
+mouth;</hi>
+               <note place="margin">Luke 4. 22.</note> Yet would He not rely on that <hi>voice from
+Heaven</hi> or his own <hi>Divine Rhetorick</hi> on Earth, for
+the Succeſs of his undertaking, without the aſſi<g ref="char:EOLhyphen"/>ſtance
+of a further Teſtimony and demonſtration
+of the Excellency of his Doctrine; and that was
+his own <hi>Example.</hi> Therefore He appeals and refers
+them to what He <hi>did</hi> as a confirmation of what
+He <hi>taught:</hi>
+               <note place="margin">Mat. 11. 29.</note> 
+               <hi>Learn of me,</hi> ſaith He, <hi>for I am meek and
+lowly of heart.</hi> And when He had given them a
+manifeſt proof of that virtue, ſtooping to ſo low
+and mean an Office as the waſhing of his <hi>Diſciples</hi>
+feet, He tells them He had given them <hi>an Example
+that they ſhould do as He had done.</hi>
+               <note place="margin">John 13. 15.</note> Nay, this Divine
+Preacher, ſent from God and deſcended from Hea<g ref="char:EOLhyphen"/>ven,
+even in his <hi>farewell Sermon</hi> would not truſt to
+the efficacy of thoſe his <hi>laſt words,</hi> without adding
+the further and more powerfull argument of his
+<hi>Example;</hi>
+               <note place="margin">Matt. 15. 9, 10.</note> teaching his diſciples <hi>obedience</hi> to himſelf
+by his own <hi>obedience</hi> to his father, and <hi>Love</hi> for one
+<pb n="45" facs="tcp:65451:26"/>
+another by his own <hi>Love</hi> to them. Which argu<g ref="char:EOLhyphen"/>ment
+S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> not able to find a better, repeats and
+urges when He would enforce the ſame duty: <hi>walk
+in Love,</hi>
+               <note place="margin">Epheſ. 5. 2.</note> ſaith He, <hi>as Chriſt alſo hath loved us.</hi> And
+S<hi rend="sup">t</hi> 
+               <hi>Peter,</hi> when He was to recommend the moſt
+difficult duty, even ſuffering patiently tho' wrong<g ref="char:EOLhyphen"/>fully,
+and for doing well, found it neceſſary to have
+recourſe to <hi>Example</hi> rather than <hi>precept:</hi> And whe<g ref="char:EOLhyphen"/>ther
+ſhould He go for that, but to him, who taught
+both by his Life and Death? Even to our Savi<g ref="char:EOLhyphen"/>our
+<hi>Chriſt,</hi>
+               <note place="margin">1 Pet. 2. 20.</note> 
+               <hi>who,</hi> ſaith He, <hi>ſuffered for us, leaving us
+an Example, that we ſhould follow his ſteps.</hi>
+            </p>
+            <p>And this practice of our Saviour is an awfull
+Precept to all his followers, but eſpecially to thoſe
+whom He ſent <hi>as</hi> his <hi>Father ſent</hi> Him, that they in
+like manner, ſhould not be only <hi>Teachers</hi> but <hi>Doers</hi>
+of his will; that ſo they may more happily con<g ref="char:EOLhyphen"/>firm
+and propagate their <hi>Doctrine</hi> by their <hi>Practices,</hi>
+according to the <hi>Example</hi> of their <hi>Lord</hi> and <hi>Maſter.</hi>
+They that do otherwiſe, whatever they ſay, are
+rather <hi>Enemies</hi> than <hi>Friends,</hi> do really more oppoſe
+than promote the Cauſe they would ſeem to own:
+S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> warneth the <hi>Philippians</hi> to <hi>mark,</hi>
+               <note place="margin">Phil. 3. 17.</note> that is, to e<g ref="char:EOLhyphen"/>mulate
+and imitate thoſe that walk'd after ſuch an
+<hi>Example</hi> as He had given, but to apprehend of others
+as <hi>the enemies of the Croſs of Chriſt.</hi> That great <hi>Apoſtle</hi>
+had often denied himſelf innocent and lawfull Li<g ref="char:EOLhyphen"/>berties,
+that He might the more effectually gain
+others to the performance of neceſſary duties:
+<hi>Not becauſe we have not power</hi> (ſays He to the <hi>Theſſa<g ref="char:EOLhyphen"/>lonians)
+but to make our ſelves an example unto you to fol<g ref="char:EOLhyphen"/>low
+us.</hi>
+               <note place="margin">2 Theſ. 3. 9.</note> And therefore not to <hi>them</hi> alone did He come
+<pb n="46" facs="tcp:65451:27"/>
+in more then <hi>Word only</hi> (as he expreſſeth it in his firſt
+Epiſtle to them) but others, and on other occaſions,
+He frequently provokes to <hi>follow</hi> his <hi>Example,</hi> to <hi>be
+followers of him,</hi>
+               <note place="margin">1 Theſ. 1. 5.</note> to <hi>be followers together of him;</hi> Uſing
+frequently other exhortations of the ſame kind.
+Great pains did He take, and much watching and
+mortification did He uſe and undergo, <hi>leſt that
+by any means,</hi>
+               <note place="margin">1 Cor. 9. 27.</note> when He had preach'd to <hi>others,</hi> He <hi>him<g ref="char:EOLhyphen"/>ſelf
+ſhould be a caſt-away.</hi> After ſuch Authorities as
+theſe, I need not tell you, that a good Life is the
+main Ingredient or the Grand Qualification, which
+the <hi>Philoſopher</hi> requires in him that ſets up for a
+Teacher; and for this reaſon, becauſe it is not the
+<hi>diſcourſe,</hi> but the <hi>opinion</hi> the Auditory has of him that
+ſpeaks, that inſtructs and edifies thoſe that hear
+him.</p>
+            <p>Such, indeed, are the moſt of men; They will
+not <hi>lead</hi> but <hi>follow:</hi> You cannot perſwade them e<g ref="char:EOLhyphen"/>ven
+to happineſs or Heaven, unleſs you go before
+them. It cannot be denied, but that this is their
+fault and folly: They are not ſo willfull and
+blind in Temporal concerns. But when you ad<g ref="char:EOLhyphen"/>viſe
+them to quit <hi>preſent</hi> and palpable for <hi>future</hi>
+and inviſible advantages and ſatisfactions, they re<g ref="char:EOLhyphen"/>quire
+encouragement from your own <hi>Example</hi> for ſo
+doing. If they obſerve their <hi>Teacher</hi> to do other<g ref="char:EOLhyphen"/>wiſe
+himſelf then He would perſwade them, they
+are apt to ſuſpect or pretend that his Doctrine is
+impracticable or doubtfull; or that ſome deſign,
+forgery, colluſion, ſome diſhoneſt artifice and pra<g ref="char:EOLhyphen"/>ctice
+is in hand and ready to be impos'd upon
+them. But our bleſſed Saviour, who himſelf took
+<pb n="47" facs="tcp:65451:27"/>
+ſuch care to inforce his Doctrine by his example,
+forgot not, for all that, to condemn this <hi>madneſs of
+the people,</hi> and to cure or prevent it, if poſſible, for
+the future; by commanding obedience even to
+the <hi>Scribes</hi> and <hi>Phariſees,</hi> as being the appointed pub<g ref="char:EOLhyphen"/>lick
+Guides and Doctours of the Law: And yet
+in the ſame breath, He took care to caution a<g ref="char:EOLhyphen"/>gainſt,
+the contagion of their bad example:
+<hi>The Scribes and the Phariſees ſit in Moſes ſeat.</hi>
+               <note place="margin">Matt. 23. 2, 3.</note> 
+               <hi>All there<g ref="char:EOLhyphen"/>fore
+whatſoever they bid you obſerve, that obſerve and do;
+but do not you after their works, for they ſay and do not.</hi>
+So that it will prove but a bad plea at the laſt
+dreadfull <hi>Tribunal,</hi> and a worſe comfort after the
+Sentence of condemnation, for any to ſay, that
+they would have done better had they ſeen their
+<hi>Teacher</hi> do ſo, and that they choſe to go out of the
+way for his good company, tho' they had all the
+reaſon in the world to believe and He himſelf told
+them, that they trod the paths of death, and that
+the end of that road was ruine.</p>
+            <p>But ſince it is ſo, that the Holy Life of the
+<hi>Teacher</hi> is the Life of his <hi>Doctrine,</hi> and that He is
+the moſt ſucceſsfull Inſtructour that preaches by his
+<hi>good Example;</hi> The great <hi>Prophet</hi> in the Text, and
+the great <hi>Prelate,</hi> of whom I ſpeak, do from hence
+derive another good plea to the meaning of the
+<hi>Phraſe</hi> in the <hi>Text,</hi> and may juſtly be eſteemed to
+have been in their generations <hi>chariots and horſemen;</hi>
+as that ſignifies <hi>Strength</hi> and <hi>Defence</hi> unto the Church
+and Commonwealth to which they did belong. If
+the lips of the Prieſt are to <hi>keep knowledge;</hi> If
+the Teachers be, alſo on that account, the <hi>Guar<g ref="char:EOLhyphen"/>dians</hi>
+of our Faith; If ſound Doctrine be the ſhield
+<pb n="48" facs="tcp:65451:28"/>
+and buckler, the Spiritual Safeguard and Protection
+of Religion and conſequently of the people that
+profeſs it, and the diſpenſers of it be therefore them<g ref="char:EOLhyphen"/>ſelves
+<hi>Chariots and horſemen;</hi> when the virtue of a <hi>good
+Example,</hi> Holineſs of life, upright and unblameable
+Converſation ſhall be join'd to their other Excel<g ref="char:EOLhyphen"/>lencies,
+a great <hi>Strength</hi> and <hi>Ornament</hi> will thereby
+be added to them; and being now thus compleat<g ref="char:EOLhyphen"/>ly
+arm'd, ſafe and invulnerable all over, they will
+appear ſtill more redoubted and accompliſh'd <hi>Cham<g ref="char:EOLhyphen"/>pions;</hi>
+and ſo further qualified for that honourable
+compellation in the <hi>Text.</hi> This is that which helps
+to <hi>put to ſhame</hi> the Adverſaries of the <hi>Church,</hi> and as
+ſuch it is recommended by an Apoſtle to a Biſhop,
+by S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> to <hi>Titus,</hi>
+               <note place="margin">Tit. 2. 7.</note> that to the incorruptneſs of his
+Doctrine He ſhould be ſure to add that of his own
+Example: <hi>In all things,</hi> (ſaith He) <hi>ſhewing thy ſelf a
+pattern of good works, that he that is of the contrary part
+may be aſhamed, having no evil thing to ſay of you.</hi> A great
+victory eaſily obtain'd: If we run not upon the
+Enemies weapons, they will either caſt them away
+or turn them upon themſelves.<note place="margin">Verſe 8.</note> 
+               <hi>Sound ſpeech that can<g ref="char:EOLhyphen"/>not
+be condemned,</hi> as the <hi>Apoſtle</hi> there expreſſeth it, and
+a ſuitable practice muſt needs either <hi>convince</hi> or <hi>con<g ref="char:EOLhyphen"/>found</hi>
+the Gainſayers: They will, ſure, be <hi>ſilenc'd</hi> if
+they are not <hi>ſatisfi'd,</hi> which laſt, another <hi>Apoſtle</hi> hopes
+well from the influence of <hi>a good Example,</hi> which He
+enjoyns on this very conſideration;<note place="margin">1 Pet. 3. 1, 2.</note> 
+               <hi>That if any obey
+not the word, they alſo may without the Word be won over,
+whilſt they behold ſuch chaſte converſation coupled with fear.</hi>
+There are thoſe that <hi>deſire occaſion,</hi>
+               <note place="margin">2 Cor. 11. 12.</note> as S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> tells us
+in <hi>one</hi> place;<note place="margin">1 Tim. 5. 14.</note> therefore we muſt be ſure to <hi>give the
+<pb n="49" facs="tcp:65451:28"/>
+Adverſary no occaſion to ſpeak reproachfully,</hi> as He admo<g ref="char:EOLhyphen"/>niſheth
+in <hi>another.</hi> Very buſie are the Enemies of
+<hi>Religion,</hi> always endeavouring to diſcountenance and
+undermine the Profeſſours of it. This is the way
+to countermine thoſe <hi>deceitfull workers,</hi> to blow up
+their Treacherous trains, and expoſe and defeat
+their malice. This therefore is very good ſervice
+to the <hi>Church,</hi> both as it is a means to <hi>ſecure</hi> what
+She hath already gotten, and alſo to <hi>enlarge</hi> Her
+conqueſts: And ſurely then ſuch Holy <hi>Warriours</hi>
+may with good reaſon be ſtyl'd as we ſee they are,
+<hi>The chariots of</hi> our <hi>Iſrael and the horſemen thereof.</hi> They
+fear not the utmoſt malice of the world; In the
+thickeſt of the Enemy they ſtand invulnerable and
+ſecure: Their breaſtplate of <hi>Urim</hi> and <hi>Thummim,</hi>
+ſoundneſs of Doctrine and integrity of Life, is <hi>proof</hi>
+and an impenetrable defence againſt all the <hi>fiery darts</hi>
+of <hi>Men</hi> or <hi>Devils.</hi>
+            </p>
+            <p>Thus was <hi>Elijah</hi> clad, thus armed he contended
+earneſtly and ſucceſsfully for the Faith: His con<g ref="char:EOLhyphen"/>verſation
+was in Heaven, long before he himſelf
+aſcended thither. He liv'd a great pattern of ho<g ref="char:EOLhyphen"/>lineſs
+to his Age: His very actions, whilſt his
+tongue was ſilent, were ſo many rebukes to that
+apoſtatized people; For even by his refuſing to
+comply with them He upbraided and rebuked their
+abominations. The terrour of Death from the
+bloody hand of Tyranny did make him fly, in<g ref="char:EOLhyphen"/>deed;
+but could not ſhake his Integrity: This
+his conſtancy in the Faith and Worſhip of God
+gave as great Teſtimony to the Truth as his Preach<g ref="char:EOLhyphen"/>ing
+did: ſo that <hi>Elijah</hi> taught by his <hi>deeds</hi> as well
+as by his <hi>words,</hi> and edifi'd the Church both by his <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi>
+and his <hi>Example.</hi>
+            </p>
+            <p>
+               <pb n="50" facs="tcp:65451:29"/>
+And did not <hi>our Holy Prelate</hi> ſo too? Did not
+He ſhew his <hi>Faith</hi> by his <hi>Works? Ye are witneſſes and
+God alſo how holily and juſtly and unblameably</hi> He <hi>behav'd
+himſelf among you that believe.</hi> For ever bleſſed be our
+Gracious God, who, (to the great advantage of his
+<hi>Spouſe</hi> the Church and the publick Good) did fur<g ref="char:EOLhyphen"/>niſh
+this his ſervant with ſuch large meaſures of
+his holy Spirit and all Heavenly graces, that He
+became a <hi>burning and a ſhining light;</hi> and could not
+be more admirable for his extraordinary parts and
+vaſt improvements then He was truly venerable for
+exemplary Piety and Holineſs of life.</p>
+            <p>Had I not already very much tranſgreſſed the
+limits of my time, I would boldly inlarge on this
+Head, as I eaſily might, ſecure and fearleſs of
+ſeeming to any of you to ſay to much, or being
+too laviſh in the commendations of the Holy man.
+It is a Theme ſcarce capable of Figure or flattery.
+His very enemies could not but acknowledge the
+uprightneſs of his converſation even when He ſtood
+before a <hi>Committee</hi> of them, impeach'd and arraign'd
+for his <hi>Loyalty</hi> and <hi>Religion.</hi> They could find no oc<g ref="char:EOLhyphen"/>caſion,
+tho' diligently ſought for, againſt him, ex<g ref="char:EOLhyphen"/>cept
+in that which concern'd <hi>the Law of his God.</hi> They
+granted He was a man of Good Life; but that,
+they ſaid, made him the more dangerous, for that
+ſuch men did all the miſchief: A good teſtimony
+from the mouth of the Enemy, of what I was be<g ref="char:EOLhyphen"/>fore
+ſaying, that nothing confounds them more
+then the unblameable Lives of ſuch as profeſs, and
+pretend a regard to <hi>Religion,</hi> and obedience to the
+<pb n="51" facs="tcp:65451:29"/>
+               <hi>Church.</hi> When they could not cenſure his <hi>practice,</hi>
+they would needs queſtion his <hi>Sermons;</hi> nay, rather
+then fail, pick quarrels with his very <hi>Texts;</hi> as they
+did with his choice of one that, it ſeems, had too
+much <hi>Loyalty</hi> in it for their purpoſe; and that was
+ſome of the firſt <hi>Verſes</hi> of the <hi>thirteenth Chapter</hi> to the
+<hi>Romans;</hi> to which their <hi>Venerable</hi> Priſoner appoſitely
+replied, that He was come prepared to juſtifie his <hi>Ser<g ref="char:EOLhyphen"/>mon,</hi>
+but did not expect to be call'd upon to anſwer
+for his <hi>Text:</hi> But it ſeems, in the afternoon, He
+had choſen a more <hi>innocent</hi> piece of <hi>Scripture</hi> for the
+ſubject of his Diſcourſe; and that was the <hi>Benedi<g ref="char:EOLhyphen"/>ction</hi>
+of the Peacemakers: <hi>Bleſſed are the Peacemakers:</hi>
+But when it was alledged by his accuſers, that He
+had obſerv'd that <hi>League-makers</hi> were not <hi>Peacemakers,</hi>
+this <hi>Text</hi> could no more excuſe his <hi>Sermon</hi> then the
+other <hi>Sermon</hi> his <hi>Text.</hi>
+            </p>
+            <p>
+               <hi>This</hi> Paſtour <hi>certainly, if any, was an</hi> Example to
+his flock,<note place="margin">1 Pet. 5. 3.</note> 
+               <hi>in S<hi rend="sup">t</hi>
+               </hi> Peters Phraſe, <hi>to the</hi> believers, <hi>in S<hi rend="sup">t</hi>
+               </hi> Pauls;
+<hi>and that in all the particulars there mentiond.</hi>
+               <note place="margin">1 Tim. 4. 12.</note> In
+word, in converſation, in charity, in ſpirit, in faith, in
+purity.</p>
+            <p>That He was a faithfull Miniſter of Chriſt, a
+conſcientious diſpenſer of the <hi>Word,</hi> and <hi>Steward of
+the Myſteries of God,</hi> You have heard already under
+another Head, and knew it well before by your
+own obſervation and experience.<note place="margin">Acts 11. 24.</note> He never <hi>ſhunn'd to
+declare unto you all the Councel of God. For he was a good
+man,</hi> (that I may apply the Character of S<hi rend="sup">t</hi> 
+               <hi>Barnabas</hi>
+to this <hi>Saint</hi> of ours) <hi>and full of the Holy Ghoſt and of
+Faith, and added much people unto the Lord.</hi> Very much
+<pb n="52" facs="tcp:65451:30"/>
+pains He took to convince and reclaim <hi>Recuſants</hi> of
+all ſorts: He invited them to frequent conferences;
+<hi>in meekneſs inſtructing thoſe that oppoſed themſelves,</hi> an<g ref="char:EOLhyphen"/>ſwering
+their arguments, reſolving their doubts, re<g ref="char:EOLhyphen"/>moving
+their ſcruples, and ſilencing all their Ca<g ref="char:EOLhyphen"/>vils
+againſt the eſtabliſhed <hi>Doctrine</hi> and <hi>Diſcipline</hi> of
+the Church, and this he did oft-times with moſt
+happy ſucceſs: For <hi>the Word of God,</hi> in his mouth,
+<hi>was quick and powerfull.</hi>
+            </p>
+            <p>But O how ſincere and great was his joy when
+He found God had made him an inſtrument of
+bringing back a wandring and a <hi>loſt ſheep!</hi> How
+did his humble gratitude iſſue forth of his very eyes,
+diſcovering to all, that ſaw and obſerv'd him, his
+religious ſoul triumphing in the ſpiritual victory,
+and at the ſame time heartily aſcribing it unto
+Heaven! But when overgrown and ſtubborn pre<g ref="char:EOLhyphen"/>judices,
+pride, obſtinacy or ſtupidity made his cha<g ref="char:EOLhyphen"/>ritable
+endeavours ineffectual, 'tis true, the Good
+man ſeem'd troubled; He ſigh'd and prayed and
+ſent many a pittying and lamenting look after the
+hardned and unrelenting <hi>wretch;</hi> but, for all that,
+knew how to be content, and, tho' He might ſay,
+as the <hi>Prophet</hi> in the perſon of our <hi>Saviour, I have la<g ref="char:EOLhyphen"/>bour'd
+in vain,</hi>
+               <note place="margin">Iſa. 49. 4.</note> 
+               <hi>I have ſpent my ſtrength for nought,</hi> yet
+withall He could comfortably add that which imme<g ref="char:EOLhyphen"/>diately
+follows; <hi>my judgement is with the Lord, and my
+work with my God.</hi> His prayers and his pains were
+accepted by his great <hi>Maſter</hi> in Heaven, who ſet
+him on work, and from thence return'd in ſhowr's
+of bleſſings and comfort on his head, and into his
+own boſome. But when this was done, when to
+<pb n="53" facs="tcp:65451:30"/>
+the Laws, and the weighty conſiderations of publick
+ſafety and quiet, common utility and general ex<g ref="char:EOLhyphen"/>perience
+of the miſchievous effects of the <hi>ſeparation</hi>
+(all which pleaded ſtrongly on his ſide) I ſay, when
+to theſe He had added his own publick and private
+endeavours to remove all, if there were any real
+conſcientious ſcruples and difficulties in the caſe;
+He was far from thinking it an <hi>Uſurpation upon con<g ref="char:EOLhyphen"/>ſciences,</hi>
+to remit refractory perſons to the <hi>Civil</hi> pow<g ref="char:EOLhyphen"/>er
+to be proceeded againſt by <hi>legal proſecutions,</hi> the
+likelieſt means then remaining, not only to prevent
+the increaſe of their numbers, but to bring them<g ref="char:EOLhyphen"/>ſelves
+to <hi>Church,</hi> and thereby give them opportunity
+to hear and hearken to further inſtructions, more
+attentively and effectually then otherwiſe they would
+have done.</p>
+            <p>But I muſt haſten to an end. As for his Com<g ref="char:EOLhyphen"/>mon
+converſe it was pleaſant, affable and courte<g ref="char:EOLhyphen"/>ous,
+and yet ſtill grave and highly becoming his
+<hi>Sacred Character.</hi> That doubtfulneſs and fear which
+his Venerable <hi>Preſence,</hi> his high <hi>Station</hi> and Quality,
+together with his great and juſt <hi>Renown</hi> did frequent<g ref="char:EOLhyphen"/>ly
+produce in ſtrangers at their firſt approach, was
+by the <hi>eaſineſs</hi> of the <hi>acceſs</hi> they met with, by his
+<hi>humble</hi> and courteous deportment, and all-obliging
+<hi>affability</hi> and condeſcenſion ſoon converted into per<g ref="char:EOLhyphen"/>fect
+<hi>Delight</hi> and <hi>Love. So ſweet and heavenly a tempera<g ref="char:EOLhyphen"/>ment
+there was in him of Greatneſs and Goodneſs, of Meek<g ref="char:EOLhyphen"/>neſs
+and Majeſty, of Gravity and Courteſie, of every thing,
+indeed, that is amiable and Reverend; that it was impoſſi<g ref="char:EOLhyphen"/>ble
+to know him well and not to Honour and Delight in him.</hi>
+Something like this has perhaps been fancied in ma<g ref="char:EOLhyphen"/>ny,
+<pb n="54" facs="tcp:65451:31"/>
+but the <hi>whole Character</hi> was hardly ever more tru<g ref="char:EOLhyphen"/>ly
+applied to any then to this <hi>Biſhop.</hi>
+            </p>
+            <p>If ever that which we call <hi>Good nature</hi> did <hi>abound</hi>
+in any man, it did in him; but ſo refin'd, beautified
+and ſet off by <hi>Religion,</hi> that ſurely it ſcarce ever
+ſhin'd with more luſtre and lovelineſs in any then
+in our <hi>Prelate.</hi> Even they that went from him diſ<g ref="char:EOLhyphen"/>appointed
+of their hopes (which none did that
+had not <hi>unreaſonably</hi> entertain'd them) could never
+find in their hearts to be diſpleas'd with him: So
+much reaſon did He always give for his denial,
+ſuch kind pains would He take to ſatisfie the <hi>Peti<g ref="char:EOLhyphen"/>tioner,</hi>
+tho' He could not grant his <hi>requeſt,</hi> ſo loath
+was He to diſmiſs him from his preſence till He
+had ſcatter'd all ſigns of diſcontent (if any did a<g ref="char:EOLhyphen"/>riſe)
+from his countenance, That it was evi<g ref="char:EOLhyphen"/>dent
+the Good <hi>Prelate</hi> was more troubled that He
+could not <hi>give,</hi> then the other that he did not
+<hi>receive.</hi>
+            </p>
+            <p>The ſubject of his diſcourſe, as far as <hi>Decenty</hi>
+and <hi>Company</hi> would allow, was generally about mat<g ref="char:EOLhyphen"/>ters
+of <hi>Religion</hi> and <hi>Learning.</hi> It was his great buſi<g ref="char:EOLhyphen"/>neſs
+to be <hi>doing or receiving</hi> good; conſidering that
+ſo employed He was moſt acceptable to that <hi>One</hi>
+Maſter, whoſe ſervice He had choſen. He gladly
+put all that came near him upon diſcourſes of
+things of which they were moſt likely and able to
+give the beſt account, which was the moſt pro<g ref="char:EOLhyphen"/>bable
+way to oblige them and benefit himſelf:
+Tho', for the moſt part, Thoſe, who He ſeem'd
+to hear and confer with for his own inſtruction,
+He really <hi>taught</hi> and ſent away better informed in
+the very things wherein they thought themſelves
+<pb n="55" facs="tcp:65451:31"/>
+to excell. Never was that <hi>Apoſtolical</hi> qualification
+of a <hi>Biſhop's</hi> being <hi>apt to teach</hi> more eminently pre<g ref="char:EOLhyphen"/>ſent
+then in him; Whether we conſider the word
+as it ſignifies <hi>ability,</hi> or elſe <hi>inclination</hi> to inſtruct
+and edifie others. Of the firſt I have diſcourſed
+already: The other is as famouſly known as
+that.</p>
+            <p>Some greatly Learned men have been noted to
+be very reſerv'd in converſation, as if they envy'd
+or grudg'd the world, or, at leaſt, their company,
+the riches of their diſcourſe; That they could ſel<g ref="char:EOLhyphen"/>dom
+be perſwaded to deliver their judgements, or
+that, when they did, it was in ſo dark and per<g ref="char:EOLhyphen"/>plex't
+a manner that it edified but little: Much
+further were they from freely giving the reaſons
+of their opinion, and ſubmitting them to the debate
+and examination of others.</p>
+            <p>But it was quite otherwiſe with the <hi>Biſhop:</hi> He
+was as an open fountain, free, plentifull and com<g ref="char:EOLhyphen"/>municative:
+Always asking and anſwering que<g ref="char:EOLhyphen"/>ſtions
+in all parts of Learning, but eſpecially ſuch
+as might conduce to the clearing of <hi>obſcure</hi> places of
+<hi>Scripture,</hi> or the confirming ſome <hi>Doctrine</hi> or Article
+of Faith, or ſome other <hi>Theological Verity.</hi> For that
+was the end of all his Studies; To this. He directed
+all his endeavours; and well underſtood how to
+keep and uſe other <hi>Arts</hi> and <hi>Soiences</hi> in due ſub<g ref="char:EOLhyphen"/>ordination
+and ſubſerviency to the ſtudy of <hi>Divine</hi>
+matters, to the knowledge of God and his own
+duty; for which He knew He was born, and which
+He deſir'd and valued above all other acquiſitions in
+the world. This eager bent of his <hi>heart</hi> fram'd and ſea<g ref="char:EOLhyphen"/>ſon'd
+all his <hi>converſation,</hi> giving it the tincture of his
+<pb n="56" facs="tcp:65451:32"/>
+inward thoughts; ſo that it plainly appear'd, out of
+what <hi>abundance</hi> it was that his mouth ſpake.</p>
+            <p>In my <hi>Text</hi> it is obſerv'd that the <hi>chariot and horſes
+of fire</hi> appear'd whilſt the two <hi>Prophets</hi> walk'd and
+talk'd together. Some will be gueſſing at the par<g ref="char:EOLhyphen"/>ticulars
+of their diſcourſe. But, whether we con<g ref="char:EOLhyphen"/>ſider
+the <hi>men,</hi> the <hi>occaſion,</hi> or that part of the <hi>conference</hi>
+which is <hi>recorded,</hi> we have reaſon to conclude that
+it was all holy and good, relating either to Gods
+honour on Earth, or the now approaching felicity
+of <hi>Elijah</hi> in a better place. But ſure I am, that our
+Holy <hi>Prelate</hi> was almoſt conſtantly <hi>ſpeaking of the
+things pertaining to the Kingdom of God:</hi> It was
+the language of his <hi>Life</hi> and <hi>Health,</hi> of his hail
+and <hi>Youthfull</hi> days, as well as of his <hi>Old Age</hi> and
+the bed of ſickneſs and death. And truly, in
+all other <hi>Religious</hi> reſpects, as well as this, his
+Death was but like his Life, his latter end ex<g ref="char:EOLhyphen"/>actly
+conformable to his more early days. I
+could not obſerve of him (as <hi>Pliny</hi> from his friend,<note place="margin">Nuper me cujuſ<g ref="char:EOLhyphen"/>dam amici lan<g ref="char:EOLhyphen"/>guor admonuit optimos eſſe nos dum infirmi ſu<g ref="char:EOLhyphen"/>mus. <hi>Plin. Ep. 26. lib.</hi> 7.</note>
+did of all men) that He was beſt in ſickneſs. A
+pious diſpoſition of mind expreſs'd by a conſtant
+uniform Tenour of Holy and Devout Practice
+had been very viſible through the whole courſe
+of his Life, and it accompanied him to the
+laſt. He had no new promiſes and profeſſions
+of Reformation to make;<note place="margin">Tales eſſe ſani perſeveremus quales nos fu<g ref="char:EOLhyphen"/>turos profitemur infirmi: <hi>ibid.</hi>
+               </note> as the ſame <hi>Authour</hi>
+in that ſame <hi>Epiſtle</hi> intimates, and common ex<g ref="char:EOLhyphen"/>perience
+ſhews to be the cuſtom of men on the
+bed of ſickneſs: He had <hi>liv'd</hi> ſo as He would
+be contented to <hi>die;</hi> and all the uſual or ne<g ref="char:EOLhyphen"/>ceſſary
+buſineſs of the ſick bed, Repentance,
+<pb n="57" facs="tcp:65451:32"/>
+Mortification and Holy Vows had been the hap<g ref="char:EOLhyphen"/>py
+Work of his ſtrongeſt and healthfull days.
+By a Religious uſe of thoſe <hi>frequent Communions,</hi>
+which, to his everlaſting Praiſe, this Holy Bi<g ref="char:EOLhyphen"/>ſhop
+eſtabliſh'd or practis'd <hi>weekly</hi> in all places
+where He liv'd, and which were ſubject to his
+Juriſdiction, He had nouriſh'd and encreas'd in
+his Boſome a watchfull and wary diſpoſition of
+mind, that kept him perpetually <hi>upon his Guard;</hi>
+his Saviours Death and his own being always
+ſo before his eyes, that He could not eaſily
+be ſurpriz'd by the moſt haſty ſummons to leave
+the world. Indeed his whole Life was, in a
+manner, a perpetual Faſt and Mortification,
+and ſo a good preparation for Death. Plenty
+of all things flowed round about him, but for
+the uſe of others rather then himſelf. His ſtu<g ref="char:EOLhyphen"/>dy
+and his buſineſs was his meat and drink;
+for of any other He had as little regard and
+made as little uſe, as was well poſſible to fleſh
+and blood. He that had writ ſo <hi>irrefragably</hi> for
+the <hi>Faſts</hi> of the <hi>Church,</hi> kept them as rigidly
+himſelf. But that ſuffic'd him not: He oblig'd
+himſelf to ſo many others, that they who knew
+not what Excellent Uſe his <hi>mind</hi> made of thoſe
+hours of Abſtinence might ſuſpect that ſo much
+ſeverity to his <hi>body,</hi> inclin'd ſomewhat towards
+a fault.</p>
+            <p>I am very ſenſible how my Subject grows
+upon my hands, which makes me grow bur<g ref="char:EOLhyphen"/>denſome
+to your patience. Much matter and
+many thoughts croud in upon me; which I muſt
+<pb n="58" facs="tcp:65451:33"/>
+refuſe, remembring where and what I am a<g ref="char:EOLhyphen"/>bout;
+that it is a <hi>Sermon</hi> and not an <hi>Hiſtory</hi> that
+I have in hand. However, methinks, I ſhould
+not omit one thing which was moſt remarkable
+in the <hi>Biſhop,</hi> and is very proper to be men<g ref="char:EOLhyphen"/>tion'd
+in a <hi>Pulpit;</hi> and that is his <hi>Chari<g ref="char:EOLhyphen"/>ty,</hi>
+which is another of thoſe Virtues where<g ref="char:EOLhyphen"/>in
+the <hi>Apoſtle</hi> would have a <hi>Biſhop</hi> be <hi>Exem<g ref="char:EOLhyphen"/>plary.</hi>
+            </p>
+            <p>Take this in its full latitude, of love both
+to God and man, it was as eminent in your
+late <hi>Prelate</hi> as any other of thoſe many <hi>Chriſtian
+Graces,</hi> wherewith God had adorn'd and bleſs'd
+that Excellent man. As it relates to the doing
+kind and <hi>charitable</hi> Offices, the good <hi>Biſhop</hi> did ſo
+tranſcend in it, that He ſeem'd nothing more
+then a provident and faithfull <hi>Steward</hi> for the pub<g ref="char:EOLhyphen"/>lick
+and the poor. But I know not how to
+apply my ſelf to this particular Head, where to
+begin or where to end. In the concluſion of a long
+diſcourſe and your tired patience, to undertake
+a new Theme of ſo vaſt an extent, that it can<g ref="char:EOLhyphen"/>not
+be treated and diſplayed, as it ought in as
+much time as I have already ſpent in all the
+other particulars, muſt needs be to the injury
+either of the <hi>Subject</hi> or the <hi>Auditory.</hi> I will leave
+it therefore to ſpeak it ſelf. Let the <hi>Scholars</hi> He
+has ſupported in the <hi>Univerſity</hi> of <hi>Cambridge;</hi> His
+ſeveral large <hi>Indowments</hi> and bountifull Benefa<g ref="char:EOLhyphen"/>ctions
+in that place; Let the crouds of poor fed
+daily at his <hi>door,</hi> and from his <hi>Table,</hi> the Wid<g ref="char:EOLhyphen"/>dow,
+the Fatherleſs and the Stranger, indigent
+<pb n="59" facs="tcp:65451:33"/>
+foreigners, diſtreſſed Travellers, and the other
+various objects of <hi>Charity publickly fed, cloath'd</hi> and
+<hi>reliev'd,</hi> or <hi>privately ſupplied</hi> by him with a <hi>plenti<g ref="char:EOLhyphen"/>full</hi>
+hand; Let theſe, I ſay, ſince they <hi>are many,</hi>
+ſpeak firſt: Let them all, according to their
+Age and Abilities, in their ſeveral Capacities
+and Languages, riſe up and bleſs and publiſh
+the Praiſes of him, whom living they experi<g ref="char:EOLhyphen"/>enc'd
+a carefull <hi>Father,</hi> a liberal <hi>Patron,</hi> and mu<g ref="char:EOLhyphen"/>nificent
+<hi>Benefactour.</hi> Then there will be nothing
+left for me to tell you; but that as He <hi>liv'd</hi>
+ſo He <hi>dy'd:</hi> What He had not <hi>charitally</hi> ſpent by
+retail before; He did <hi>ſo</hi> diſpoſe of all together
+and in the lump, by his <hi>laſt Will</hi> and <hi>Teſtament,</hi>
+in which He has taken care that all the remain<g ref="char:EOLhyphen"/>ing
+part of his Eſtate ſhall be laid out for the
+augmentation of poor Vicaridges; A Charity as <hi>pru<g ref="char:EOLhyphen"/>dent</hi>
+and <hi>pious</hi> in the <hi>kind</hi> as <hi>bountifull</hi> in the <hi>meaſure</hi>
+of it.</p>
+            <p>Thus Liv'd; and thus Dyed this Great and
+Holy <hi>Biſhop</hi> in the <hi>Seventy firſt</hi> year of his Life,
+a Good Old Age as He had made it to himſelf
+and others, by having endeavour'd and done ſo
+much good in it; but not without hard travail,
+laſſitude and toyl which He had brought and im<g ref="char:EOLhyphen"/>pos'd
+upon himſelf, by conſidering more the
+<hi>willingneſs</hi> of the <hi>Spirit</hi> then the <hi>wearineſs</hi> of the <hi>Fleſh,</hi>
+and ſtriving to live <hi>too faſt</hi> in the beſt ſence; that
+is, to be more uſefull and ſerviceable then his
+Health and Strength (tho' He had a great ſhare
+of both) was able to endure.</p>
+            <p>Whilſt God afforded him the uſe of his ſen<g ref="char:EOLhyphen"/>ſes
+and his tongue, He employed them (as He
+<pb n="60" facs="tcp:65451:34"/>
+was wont) in Prayers and Praiſes and other
+Diſcourſes that tended moſt to his own comfort,
+and to the Edification of the ſtanders by. Whilſt
+I waited on him, which I thank God I had
+the Happineſs to do, before his ſickneſs had
+too much ruffled or diſcompos'd his thoughts,
+He was frequently putting up ardent Prayers
+for the Wellfare and Proſperity of the <hi>Church:</hi> He
+could not forget to recommend that to the
+care of Heaven with ſome of his laſt breath,
+which had ever been much dearer to him then
+his own Life, which He had ſpent in the ſer<g ref="char:EOLhyphen"/>vice
+of it, with no leſs benefit to the <hi>Church,</hi>
+then Honour and Satisfaction to Himſelf: When
+ever the fiercer aſſaults of his Feavour began to
+remit, and afford him ſome intervall of eaſe,
+He preſently return'd to the <hi>Beloved Subject;</hi> and
+the next words we heard were concerning the
+<hi>Church.</hi> His ſereneſt thoughts were ſpent on this,
+and He ſeemed unſenſible of pain, and to for<g ref="char:EOLhyphen"/>get
+that He was ſick, whilſt He was Praying
+for the Health of the <hi>Spouſe of Chriſt.</hi> Once par<g ref="char:EOLhyphen"/>ticularly,
+in my hearing, did He make a large
+and ſolemn declaration of his devout thanks,
+<q>which, ſaid He, I render to Almighty God
+with all the powers of my mind, and from the
+depth of my ſoul for his moſt wonderfull
+Mercy to mankind in his Eternal Son our
+Lord and Saviour <hi>Jeſus Chriſt.</hi>
+               </q> Then, after
+ſome more words to the ſame effect, He re<g ref="char:EOLhyphen"/>peated
+that Verſe of the thirty firſt <hi>Pſalm. Bleſſed
+be the Lord,</hi>
+               <note place="margin">Pſal. 31. 21.</note> 
+               <hi>for he hath ſhewed me his mar<g ref="char:EOLhyphen"/>vellous
+kindneſs in a ſtrong City;</hi> the Holy Catho<g ref="char:EOLhyphen"/>lick
+<pb n="61" facs="tcp:65451:34"/>
+Church, raiſing his voice very ſtrongly
+when He ſo interpreted and applied the <hi>Pſal<g ref="char:EOLhyphen"/>miſt's
+Phraſe.</hi> Then again He proceeded to ſpeak
+of the <hi>Church of England,</hi> which He did with ſo
+much Honour, Reverence and Affection, that
+not <hi>my</hi> words nor any <hi>other</hi> but his own are a<g ref="char:EOLhyphen"/>ble
+to expreſs it. Often have I heard him <hi>preach</hi>
+and often <hi>diſpute,</hi> and ſtill oftner <hi>Diſcourſe</hi> private<g ref="char:EOLhyphen"/>ly
+in the Juſtification and Honour of the <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi>
+as it was contriv'd and manag'd and now
+ſtands by Law Eſtabliſh'd in theſe Kingdoms:
+And this He always did with a fervency and
+zeal worthy of the Excellent and Deſerving Sub<g ref="char:EOLhyphen"/>ject:
+But theſe his dying expreſſions, methoughts,
+outdid all that ever He had us'd before. In
+<hi>few words</hi> (which I dare not pretend to repeat)
+He fully expreſs'd his admiration of the <hi>Beauty</hi>
+and <hi>Soundneſs</hi> of the conſtitution of the <hi>Church of
+England;</hi> and applauded the unvaluable <hi>Happineſs</hi>
+of the Nation in it, and bleſſed the <hi>goodneſs</hi> of
+God for it, and own'd it for the unſpeak<g ref="char:EOLhyphen"/>able
+<hi>Comfort</hi> of his Soul, and his <hi>Glory</hi> that
+He had liv'd, and now ſhould die, a mem<g ref="char:EOLhyphen"/>ber
+of it.</p>
+            <p>Thus heartily and highly was this <hi>Church</hi> e<g ref="char:EOLhyphen"/>ſteemed
+and honoured by this moſt <hi>Learned</hi> and
+<hi>Holy</hi> Man: Such were his <hi>laſt,</hi> his <hi>dying</hi> thoughts
+and expreſſions concerning it; and agreeable here<g ref="char:EOLhyphen"/>unto
+had been the Profeſſion and Practice of
+his whole Life. As He liv'd ſo He dyed a
+<hi>Zealous aſſertour</hi> of our <hi>Reformation.</hi> For this He
+had appear'd and acted ſeveral ways, ſo often
+and ſo ſucceſsfully, that He was long ſince be<g ref="char:EOLhyphen"/>come
+<pb n="62" facs="tcp:65451:35"/>
+come very formidable to our Adverſaries in the
+<hi>Church of Rome;</hi> who at length, found it expe<g ref="char:EOLhyphen"/>dient
+to caution their <hi>Emiſſaries</hi> againſt contend<g ref="char:EOLhyphen"/>ing
+with <hi>Him.</hi> None underſtood the true ſtate
+and full compaſs of the Controverſie between
+<hi>the two Churches</hi> better then himſelf, or could
+with more Evidence and Conviction make out
+the Warrantableneſs and Regularity of the <hi>En<g ref="char:EOLhyphen"/>gliſh
+Reformation,</hi> the <hi>Canonical proceedings</hi> in it,
+the <hi>Excellent Pattern</hi> propos'd and imitated by
+it, the moſt <hi>Apoſtolick</hi> and truly <hi>Catholick Conſti<g ref="char:EOLhyphen"/>tution</hi>
+that did ariſe from it, and all the happy
+<hi>Advantages</hi> that were obtained by that bleſſed
+undertaking; to which we owe, as our <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi>
+with much thankfullneſs and comfort was
+wont to acknowledge and avouch, <hi>that, at this day,
+by a ſingular felicity, we enjoy the envied Communion
+of a Church the moſt exactly conformable to the Pri<g ref="char:EOLhyphen"/>mitive
+and pureſt of any other Chriſtian Society upon
+Earth.</hi>
+            </p>
+            <p>On the other ſide, He knew as well how
+moſt effectually to expoſe the <hi>Uncatholick</hi> impo<g ref="char:EOLhyphen"/>ſitions
+and <hi>Anathema's</hi> of the <hi>Romiſh Church,</hi>
+and to ſhew plainly how unlike She is become
+to Her <hi>Firſt Self,</hi> how prodigiouſly <hi>deform'd</hi> and
+<hi>overgrown</hi> with monſtrous <hi>Innovations</hi> in <hi>Doctrine</hi>
+and <hi>Diſcipline,</hi> how <hi>unchriſtian</hi> in Her <hi>Uſurpation,</hi> and
+in Her <hi>Tyranny</hi> inſupportable: To explain and
+maintain ſuch <hi>Truths</hi> as theſe was the buſineſs of
+the <hi>Biſhop's</hi> ſtudy, ſpent a great deal of his Time, and
+was ſome part of his daily work, even to the laſt.</p>
+            <p>
+               <pb n="63" facs="tcp:65451:35"/>
+But all this could not ſecure the Good Man
+from the malicious? and impudent Calumnies
+and Railing of ſuch as were Enemies to <hi>Him,</hi>
+becauſe they were ſo to <hi>Religion</hi> and the <hi>Pub<g ref="char:EOLhyphen"/>lick.</hi>
+The moſt Heavenly <hi>Innocence</hi> is not <hi>Anti<g ref="char:EOLhyphen"/>dote</hi>
+ſufficient againſt the <hi>venome</hi> of the Tongue;
+that is, it cannot prevent the malignant aſſaults
+of a <hi>Serpentine</hi> brood of people, that will be vo<g ref="char:EOLhyphen"/>miting
+out poiſon, tho' they cannot hurt: Ma<g ref="char:EOLhyphen"/>lice
+will be <hi>gnawing</hi> at the moſt entire and ſolid
+Virtue; which, tho' it be <hi>impenetrable</hi> armour,
+and a <hi>ſure</hi> defence, yet is it ſtill the <hi>Envy</hi> and
+<hi>Aime</hi> of thoſe men,<note place="margin">Pſal. 57. 4.</note> 
+               <hi>whoſe teeth are ſpears and ar<g ref="char:EOLhyphen"/>rows,
+and their Tongue a ſharp ſword.</hi> All the
+<hi>Zealous</hi> endeavours, I ſay, of our Learned <hi>Bi<g ref="char:EOLhyphen"/>ſhop</hi>
+againſt <hi>the Romaniſts,</hi> and his many Vi<g ref="char:EOLhyphen"/>ctories
+and Succeſſes in that Cauſe, could not
+hinder, (as, doubtleſs, you remember, and not
+without much indignation, at the very thought
+of it) but that the <hi>Faction</hi> voted and reported
+this <hi>unwearied Champion</hi> of the <hi>Engliſh Church</hi> a
+very <hi>Papiſt.</hi> But it was at a time, indeed, when
+it ſeemed very behoofull for <hi>their</hi> purpoſes, that
+the beſt <hi>Subjects</hi> and the beſt <hi>Churchmen</hi> ſhould
+be ſo reputed: And, accordingly, it was in
+ſuch good company that the <hi>Biſhop</hi> ſuffer'd: For
+almoſt all the <hi>Loyal Nobility, Clergy</hi> and <hi>Gen<g ref="char:EOLhyphen"/>try</hi>
+fell under the ſame injurious imputa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But all that popular Madneſs and Malice did
+but ſerve to exerciſe and Illuſtrate new <hi>Graces</hi>
+in our Holy <hi>Prelate,</hi> and bring ſtill further into
+<pb n="64" facs="tcp:65451:36"/>
+the light the more hidden and undiſcover'd Beauties
+of his ſoul. By this means it did appear how
+ſmoothly and evenly He could go through or
+lie under <hi>good</hi> and <hi>evil report,</hi> and how perfect<g ref="char:EOLhyphen"/>ly
+He had learn'd from the <hi>Apoſtle</hi> both <hi>to la<g ref="char:EOLhyphen"/>bour
+and ſuffer reproach.</hi>
+               <note place="margin">1 Tim. 4. 10.</note> All their tumult and
+noiſe was not able to diſcompoſe the ſweet
+calmneſs and ſerenity of his mind, which the
+inward teſtimony and applauſe of his own Con<g ref="char:EOLhyphen"/>ſcience
+had made ſure and perpetual to him.
+The ſlanders and clamours of people <hi>againſt him</hi>
+could not riſe higher and louder then his Wiſhes
+and Prayers <hi>for them.</hi> He <hi>bleſs'd</hi> as faſt as they
+could <hi>curſe:</hi> And when the rage of the Rabble
+began to ſwell high, and at laſt became threat<g ref="char:EOLhyphen"/>ning
+and dangerous, yet was He not then con<g ref="char:EOLhyphen"/>cern'd
+for any intereſt of his own; ſo much
+were his thoughts poſſeſs'd with the generous
+apprehenſions He had for thoſe miſerable peo<g ref="char:EOLhyphen"/>ple
+themſelves, and the fatal Miſchiefs which
+their unbridled Fury might bring upon the <hi>Go<g ref="char:EOLhyphen"/>vernment</hi>
+and the <hi>Publick.</hi>
+            </p>
+            <p>But I have done; The time will not ad<g ref="char:EOLhyphen"/>mit
+of any more: I muſt leave both the Death-bed
+and the Grave of this Great Man: And
+I am e'ne glad that I am to procede no fur<g ref="char:EOLhyphen"/>ther.
+You could bear, it ſeems with the pro<g ref="char:EOLhyphen"/>lixneſs
+of my Diſcourſe, whilſt I was ſpeak<g ref="char:EOLhyphen"/>ing
+of his <hi>Life,</hi> but may not perhaps, ſo well
+endure the galling of your Memories with ſad
+Reflexions upon his <hi>Death. Eliſha</hi> himſelf could
+not look on with Patience when <hi>Elijah</hi> was <hi>parted</hi>
+               <pb n="65" facs="tcp:65451:36"/>
+from him, tho? He ſaw him aſcending into
+Heaven: Nor can you, I dare ſay, reflect
+upon the laſt <hi>Hours</hi> of your late <hi>Biſhop's Life,</hi> tho'
+they were the laſt of his <hi>labours</hi> too, without
+troubled and ſorrowfull hearts: For it is to <hi>your</hi>
+almoſt irreparable <hi>Loſs,</hi> tho' to his unſpeakable
+<hi>Advantage</hi> that He was taken from you. To
+conclude therefore.</p>
+            <p>Let Virtue have its <hi>perfect work;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Plut. Peric.</note> that effect,
+I mean, upon you, which the <hi>Moraliſt</hi> tells us
+is natural unto it; that is to diſpoſe men not
+only to Praiſe or <hi>Admire</hi> things well done, but
+likewiſe to <hi>imitate</hi> the doers of them. I dare
+ſay, this Holy <hi>Biſhops</hi> memory is precious to
+you, and you would do it Honour: Then uſe
+your beſt endeavours to practice his Doctrine
+and imitate his Virtues: Recollect ſome, at<g ref="char:EOLhyphen"/>leaſt,
+of the many Divine Precepts and Rules
+He has often, with ſo much Religious vehe<g ref="char:EOLhyphen"/>mence,
+deliver'd, explain'd and preſs'd upon
+you from this place; and make conſcience to
+put in practice thoſe his Pious Admonitions,
+which you know the Holy <hi>Biſhop</hi> recommended
+both by <hi>Word</hi> and <hi>Deed.</hi> This, as it will beſt
+expreſs your eſteem of him, by teſtifying your
+value of his Advice and your confidence in his
+<hi>Abilities</hi> and <hi>Integrity;</hi> So will it likewiſe ſpeak
+your care and kindneſs for your ſelves. Such
+practice made your <hi>Biſhop Famous</hi> and <hi>Honourable</hi>
+here, and has rais'd him, without doubt, to
+a very <hi>high degree</hi> of <hi>Glory</hi> in another world.
+The ſame means will produce the ſame happy
+effects for you that they did for him: Imitate,
+<pb n="66" facs="tcp:65451:37"/>
+I ſay, his Excellencies all of you, in your ſe<g ref="char:EOLhyphen"/>veral
+Stations, as far as they are imitable by
+you, and perſevere in well doing; And then
+you will not fail to be made partakers of thoſe
+ineſtimable Rewards of <hi>Glory</hi> and <hi>Immortality,</hi>
+which God hath laid up for them who <hi>dili<g ref="char:EOLhyphen"/>gently
+ſeek him;</hi> which that we may all endea<g ref="char:EOLhyphen"/>vour
+faithfully and conſtantly, God of his infi<g ref="char:EOLhyphen"/>nite
+mercy grant; <hi>to whom be glory and honour and
+praiſe now and for evermore.</hi> Amen.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
